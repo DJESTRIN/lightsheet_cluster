@@ -16,9 +16,10 @@ cd $code_directory
 for sample in $scratch_stitch*/
 do
 	TMP=$(echo $sample)
-	
+	echo $TMP
 	for channel in $sample*/
 	do
+	echo $channel
 		sbatch --job-name=precomputed_volume --mem=80G --partition=sackler-gpu --gres=gpu:1 --mail-type=BEGIN,END,FAIL --mail-user=dje4001@med.cornell.edu --wrap="bash ./estrin_cloudreg.sh '$channel' '$scratch_directory'"
 	done
 done

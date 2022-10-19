@@ -37,10 +37,11 @@ do
 		echo This is the input directory: $input
 		
 		./terastitcher --import --volin="$input" --projout=xml_import --ref1=H --ref2=V --ref3=D --vxl1=1.83 --vxl2=1.83 --vxl3=2 --volin_plugin="TiledXY|2Dseries" --sparse_data
-		#./terastitcher --displcompute --projin="${input}xml_import.xml" --projout=xml_displcomp --subvoldim=600 --sV=25 --sH=25 --sD=0
-		
+		./terastitcher --displcompute --projin="${input}xml_import.xml" --projout="${input}xml_displcomp" --subvoldim=600 --sV=25 --sH=25 --sD=0
+		chmod -R o+rwx "${input}xml_merging.xml"		
+
 		# Parrallel Alignment ==> This is the default, need to validate gpu is engaged
-		 mpiexec -n 2 -host $SLURM_JOB_NODELIST python "$PARASTITCHER" -2 --projin="${input}xml_import.xml" --projout="{input}xml_displcomp" --subvoldim=600 --sV=25 --sH=25 --sD=0
+		# mpiexec -n 2 -host $SLURM_JOB_NODELIST python "$PARASTITCHER" -2 --projin="${input}xml_import.xml" --projout="${input}xml_displcomp" --subvoldim=600 --sV=25 --sH=25 --sD=0
 
 	
 		
