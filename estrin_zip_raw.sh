@@ -20,6 +20,6 @@ zip -r $zip_filename $input_directory
 
 # Send Zipped folder back to store
 echo Sending the zipped file back to storage.
-rsync -av $ZipFileName $store_finish_directory
+rsync -av $zip_fileName $store_finish_directory
 
 
