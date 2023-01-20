@@ -9,4 +9,5 @@ The pipeline consists of 6 steps:
 (5) Segmenting pixels (cells, axons, etc)
 (6) calculating the number of counts per region, generating statistics
 
-Packages used in the pipeline have not yet been cited (I will update this soon)
+Packages used in the pipeline have not yet been cited (I will update this soon). 
+The primary sources for code are Pystripe, Terastitcher and CloudReg. Segmentation convolutional neural network not provided. 
