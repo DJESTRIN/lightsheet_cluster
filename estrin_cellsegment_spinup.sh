@@ -9,15 +9,19 @@ scratch_stitch=${scratch_directory}"lightsheet/stitched/"
 #Update sample list (in the case of any issues)
 cd $code_directory
 
-# Calculate precomputed volumes for each sample
+# Run Cell Segmentation for each sample
 for sample in $scratch_stitch*/
 do
         TMP=$(echo $sample)
         echo $TMP
         for channel in $sample*/
         do
-        echo $channel
-                sbatch --job-name=cellsegmentation --mem=200G --partition=scu-gpu --gres=gpu:1 --mail-type=BEGIN,END,FAIL --mail-user=dje4001@med.cornell.edu --wrap="bash ./estrin_cellsegment.sh $channel $code_directory"
+        	echo $channel
+		second="segmented"
+		output=${channel/"stitched"/$second}
+		echo $output
+		mkdir -p $output
+        	sbatch --job-name=cellsegmentation --mem=300G --partition=scu-gpu,sackler-gpu --gres=gpu:2 --mail-type=BEGIN,END,FAIL --mail-user=dje4001@med.cornell.edu --wrap="bash ./estrin_cellsegment.sh $code_directory $channel $output"
         done
 done
 exit

@@ -5,7 +5,7 @@ scratch_directory=$2
 store_finish_directory=$3
 
 # Raw data no longer needed. Send back to storage
-bash /home/dje4001/lightsheet_cluster/estrin_sendback_spinup.sh /athena/listonlab/scratch/dje4001/lightsheet/raw/ raw
+bash /home/dje4001/lightsheet_cluster/estrin_sendback_spinup.sh $scratch_directory/lightsheet/raw/ $store_finish_directory raw
 
 # Create folder for terastitcher output
 scratch_stitch=${scratch_directory}"lightsheet/stitched/"
@@ -23,6 +23,13 @@ sbatch --job-name=stitch_files --mem=100G --partition=sackler-gpu,scu-gpu --gres
 
 done
 
-#sbatch --mem=5G --partition=scu-cpu --dependency=singleton --job-name=stitch_files --wrap="bash estrin_cloudreg_spinup.sh '$code_directory' '$scratch_directory' '$store_finish_directory'"
+# Begin processing for neuroglancer/cloudreg. Create precomputed channel
+sbatch --mem=5G --partition=scu-cpu --dependency=singleton --job-name=stitch_files --wrap="bash estrin_cloudreg_spinup.sh '$code_directory' '$scratch_directory' '$store_finish_directory'"
+
+# Begin segmenting cells 
+sbatch --mem=5G --partition=scu-cpu --dependency=singleton --job-name=stitch_files --wrap="bash estrin_cellsegment_spinup.sh '$code_directory' '$scratch_directory' '$store_finish_directory'"
+
+# Begin downsampling stitched stack for syGlass 
+sbatch --mem=5G --partition=scu-cpu --dependency=singleton --job-name=stitch_files --wrap="bash estrin_downsample_spinup.sh '$code_directory' '$scratch_directory' '$store_finish_directory'"
 
 exit

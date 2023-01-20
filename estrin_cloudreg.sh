@@ -1,6 +1,6 @@
 #!/bin/bash
 # This script will initiate a singularity session where a precomputed volume will be calculated
-sample_oh=$1 #full directory to stitched data ==> Input should be individual channel such as ../Mouse/Ex_488_Em_
+sample_oh=$1 #full directory to stitched data ==> Input should be enitre sample
 scratch_directory=$2
 module load cuda
 source ~/.bashrc
