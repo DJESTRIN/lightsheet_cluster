@@ -3,7 +3,33 @@ from concurrent.futures import ThreadPoolExecutor
 import argparse
 from skimage.util import view_as_windows
 import numpy as np
+from PIL import Image
+import numpy as np
+from concurrent.futures import ProcessPoolExecutor, as_completed
 
+def adjust_contrast(img, alpha=1.5, beta=10):
+    """Adjusts the contrast of an image.
+    Alpha controls the degree of enhancement, and beta controls the brightness.
+    """
+    img = img.convert('RGB')
+    img = np.array(img)
+    img = img.astype(np.float32)
+    img = img * alpha + beta
+    img[img > 255] = 255
+    img = img.astype(np.uint8)
+    img = Image.fromarray(img)
+    return img
+
+def tile_image(img, tile_size=(64, 64)):
+    """Tiles an image into smaller images of the specified size"""
+    width, height = img.size
+    tiles = []
+    for i in range(0, width, tile_size[0]):
+        for j in range(0, height, tile_size[1]):
+            box = (i, j, i + tile_size[0], j + tile_size[1])
+            tile = img.crop(box)
+            tiles.append(tile)
+    return tiles
 # Define a function to perform local contrast enhancement on a single image
 def enhance_image(image, window_size, stride):
     # Create the view of the image as windows
