@@ -20,16 +20,64 @@ def adjust_contrast(img, alpha=1.5, beta=10):
     img = Image.fromarray(img)
     return img
 
-def tile_image(img, tile_size=(64, 64)):
-    """Tiles an image into smaller images of the specified size"""
-    width, height = img.size
+import numpy as np
+from skimage import io
+
+def tile_image(image_path, tile_size, stride):
+    """
+    Break a TIFF image into tiles with a specified stride.
+    :param image_path: path to the TIFF image
+    :param tile_size: size of the tiles (height, width)
+    :param stride: stride for tiling (height, width)
+    :return: a list of tiles as numpy arrays
+    """
+    # Load the TIFF image
+    image = io.imread(image_path)
+
+    # Get the height and width of the image
+    height, width = image.shape[:2]
+
+    # Initialize the list of tiles
     tiles = []
-    for i in range(0, width, tile_size[0]):
-        for j in range(0, height, tile_size[1]):
-            box = (i, j, i + tile_size[0], j + tile_size[1])
-            tile = img.crop(box)
+
+    # Iterate over the rows of the image
+    for y in range(0, height - tile_size[0] + 1, stride[0]):
+        # Iterate over the columns of the image
+        for x in range(0, width - tile_size[1] + 1, stride[1]):
+            # Get the current tile
+            tile = image[y:y + tile_size[0], x:x + tile_size[1]]
+            # Append the tile to the list of tiles
             tiles.append(tile)
+
     return tiles
+import numpy as np
+
+def reconstruct_image(tiles, tile_size, image_size):
+    """
+    Reconstruct an image from a list of tiles.
+    :param tiles: list of tiles as numpy arrays
+    :param tile_size: size of the tiles (height, width)
+    :param image_size: size of the original image (height, width)
+    :return: the reconstructed image as a numpy array
+    """
+    # Initialize the reconstructed image with zeros
+    reconstructed_image = np.zeros(image_size, dtype=tiles[0].dtype)
+
+    # Get the number of rows and columns in the image
+    rows, cols = image_size[0] // tile_size[0], image_size[1] // tile_size[1]
+
+    # Iterate over the rows of the image
+    for row in range(rows):
+        # Iterate over the columns of the image
+        for col in range(cols):
+            # Get the index of the current tile
+            index = row * cols + col
+            # Get the current tile
+            tile = tiles[index]
+            # Paste the current tile into the reconstructed image
+            reconstructed_image[row*tile_size[0]:(row+1)*tile_size[0], col*tile_size[1]:(col+1)*tile_size[1]] = tile
+    return reconstructed_image
+
 # Define a function to perform local contrast enhancement on a single image
 def enhance_image(image, window_size, stride):
     # Create the view of the image as windows
