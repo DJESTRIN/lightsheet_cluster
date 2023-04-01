@@ -21,7 +21,7 @@ do
 		output=${channel/"stitched"/$second}
 		echo $output
 		mkdir -p $output
-        	sbatch --job-name=cellsegmentation --mem=300G --partition=scu-gpu,sackler-gpu --gres=gpu:2 --mail-type=BEGIN,END,FAIL --mail-user=dje4001@med.cornell.edu --wrap="bash ./estrin_cellsegment.sh $code_directory $channel $output"
+        	sbatch --job-name=cellsegmentation --mem=500G --partition=sackler-gpu --gres=gpu:2 --mail-type=BEGIN,END,FAIL --mail-user=dje4001@med.cornell.edu --wrap="bash ./estrin_cellsegment.sh $code_directory $channel $output"
         done
 done
 exit

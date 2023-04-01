@@ -58,7 +58,6 @@ class generate_train_data(object):
                 cube_oh=args[u]
                 cubes.append(cube_oh)
               
-            ipdb.set_trace()
             self.cubes=list(cubes)
             self.cubes=list(self.cubes[0][0])
             print(self.cubes)
@@ -85,7 +84,8 @@ class generate_train_data(object):
         return
 
     def grab_cube(self):
-        
+        self.cubes=np.array(self.cubes)
+        self.cubes=np.atleast_2d(self.cubes)
         for i,cube in enumerate(self.cubes):
             #Loop through images on z stack
             self.image_log_oh=self.image_log[cube[4]:cube[5]]
@@ -146,10 +146,11 @@ class generate_train_data(object):
     
     
     
-input_path='/athena/listonlab/scratch/dje4001/rabies_lifecanvas/lightsheet/raw/Estrin_Animal3_antiGFP-antiRFP/488nm_anti-GFP/'
-output_path='/athena/listonlab/scratch/dje4001/rabies_lifecanvas/lightsheet/training_data/488nm_anti-GFP/'
-data=generate_train_data(input_path,output_path,[2946,3879,1134,2691,352,708])
-data.forward([2946,3879,1134,2691,352,708])
+input_path='/athena/listonlab/scratch/dje4001/rabies_cort_experimental/lightsheet/stitched/20220924_12_30_54_CAGE3811492_ANIMAL1022_VIRUSRABIES_CORTEXPERIMENTAL/Ex_647_Em_680/'
+output_path='/athena/listonlab/scratch/dje4001/rabies_cort_experimental/lightsheet/manual_counts_thalamus/20220924_12_30_54_CAGE3811492_ANIMAL1022_VIRUSRABIES_CORTEXPERIMENTAL/'
+### Double check x and y is correct. ImageJ x equals this script's y.
+data=generate_train_data(input_path,output_path,[3700,5100,1700,5100,1000,2700])
+data.forward([3700,5100,1700,5100,1000,2700])
 
 
 # parser=argparse.ArgumentParser()

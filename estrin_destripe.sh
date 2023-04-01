@@ -11,5 +11,5 @@ mkdir -p $output
 
 # Call pystripe
 source ~/.bashrc
-conda activate destripe
+conda activate destripe2
 pystripe -i $input -o $output -s1 256 -s2 65

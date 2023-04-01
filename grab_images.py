@@ -25,7 +25,6 @@ class generate_train_data(object):
         self.image_log=glob.glob('*.tif*')
         self.image_log=sorted(self.image_log,key=self.custom_sort)
         
-        
         #Get image properties
         image_oh=imread(self.image_log[0])
         (self.x,self.y)=image_oh.shape
@@ -45,9 +44,9 @@ class generate_train_data(object):
         
     def get_cubes(self,*args):
         if not args:
-            # Generates 15 cube data sets for the given sample. 
+            # Generates 20 cube data sets for the given sample. 
             cubes=[]
-            for u in range(15):
+            for u in range(20):
                 x,y,z=random.randint(0,(self.x-500)),random.randint(0,(self.y-500)),random.randint(0,(self.z-500))
                 cube_oh=[x,x+500,y,y+500,z,z+500]
                 cubes.append(cube_oh)
@@ -110,4 +109,4 @@ if __name__=="__main__":
     generate_train_data(args.input_path,args.output_path)
     
     
-data=generate_train_data(variable1,variable2,[2700,3200,6400,6900,1550,2050],[3000,3500,6000,6500,1000,1500])
+#data=generate_train_data(variable1,variable2,[2700,3200,6400,6900,1550,2050],[3000,3500,6000,6500,1000,1500])

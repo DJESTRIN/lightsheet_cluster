@@ -20,11 +20,14 @@ if __name__=='__main__':
     sample_directory=args.input_dir
     output_directory=args.input_dir+"cell_detect_test.json"
     os.chdir(lifecanvas_code_directory)
-    from ModelClasses import Model_DetectOnly
-    model = Model_DetectOnly(detectorPath = "/home/dje4001/LIGHTSHEET_CLUSTER/SA_files/Models/tf-models/ViralFluorescence-classify",
-        detectionThreshold=0.6,
-        modelName="ViralFluorescence (detect only)",
-        modelDescription="A Model made by lifecanvas I think",)
+    from ModelClasses import Model_CNNDetect_CNNClassify # This package must be obtained from lifecanvas
+    model = Model_CNNDetect_CNNClassify(
+        detectorPath="/home/dje4001/LIGHTSHEET_CLUSTER/SA_files/Models/tf-models/ViralFluorescence_detect_2021_5_4_85",
+        classifierPath = "/home/dje4001/LIGHTSHEET_CLUSTER/SA_files/Models/tf-models/ViralFluorescence-classify",
+        classificationThreshold=0.9,
+        detectionThreshold=0.1,
+        modelName="Modelforvirus",
+        modelDescription="A Model made by lifecanvas",)
 
     with open('/home/dje4001/LIGHTSHEET_CLUSTER/SA_files/Models/ViralFluorescence_model.pkl','wb') as f:
         pickle.dump(model,f)

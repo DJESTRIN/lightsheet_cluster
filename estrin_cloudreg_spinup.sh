@@ -19,7 +19,7 @@ cd $code_directory
 for sample in $scratch_stitch*/
 do
 
-		sbatch --job-name=precomputed_volume --mem=200G --partition=sackler-gpu,scu-gpu --gres=gpu:2 --mail-type=BEGIN,END,FAIL --mail-user=dje4001@med.cornell.edu --wrap="bash ./estrin_cloudreg.sh '$sample' '$scratch_directory'"
+		sbatch --job-name=precomputed_volume --mem=200G --partition=scu-gpu --gres=gpu:2 --mail-type=BEGIN,END,FAIL --mail-user=dje4001@med.cornell.edu --wrap="bash ./estrin_cloudreg.sh '$sample' '$scratch_directory'"
 done
 
 sbatch --mem=5G --partition=scu-cpu --dependency=singleton --job-name=precomputed_volume --wrap="bash estrin_registration_spinup.sh '$code_directory' '$scratch_directory' '$store_finish_directory'"

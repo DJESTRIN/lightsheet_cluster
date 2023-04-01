@@ -1,9 +1,9 @@
 #!/bin/bash
 # Activate pystripe conda environemnt
 code_directory=~/lightsheet_cluster/
-scratch_directory=/athena/listonlab/scratch/dje4001/puja_gcamp/
-store_start_directory=/athena/listonlab/store/dje4001/rsync_data/lightsheet/puja/gcamp/
-store_finish_directory=/athena/listonlab/store/dje4001/lightsheet/puja_gcamp/
+scratch_directory=/athena/listonlab/scratch/dje4001/tmtai9fostrap_cohort4_try2/
+store_start_directory=/athena/listonlab/store/dje4001/rsync_data/lightsheet/tmt_fostrapxai9tdtomato/cohort4/all/
+store_finish_directory=/athena/listonlab/store/dje4001/lightsheet/tmt_fostrapxai9tdtomato/cohort4/
 
 mkdir -p $scratch_directory
 mkdir -p $scratch_directory/lightsheet
