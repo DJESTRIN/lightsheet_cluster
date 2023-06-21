@@ -37,7 +37,7 @@ class Graph():
         
     def _make_graph(self,dic):
         name = dic.get('name')
-        ID=dic.get('atlas_id')
+        ID=dic.get('id')
         if name not in self.graph:
             node = Node(name,ID)
             self.graph[name] = node
@@ -51,7 +51,7 @@ class Graph():
         
         for child in children: # child is a dict
             child_name = child.get('name')
-            child_ID=child.get('atlas_id')
+            child_ID=child.get('id')
             child_node = Node(child_name,child_ID)
             child_node.parent = node
             child_node.level = self.level 

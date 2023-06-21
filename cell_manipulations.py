@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jan 23 17:03:20 2023
-
-@author: dje4001
+Code which links cell count classifications with registration. Creates final dataset. 
 """
 import json
 import numpy as np 
@@ -14,7 +12,7 @@ from skimage.io import imread
 import sys
 sys.path.insert(0,'/home/dje4001/CloudReg/')
 sys.path.insert(0,'/home/dje4001/lightsheet_cluster/')
-from CloudReg.cloudreg.scripts.ARA_stuff.parse_ara import *
+from cloudreg.scripts.ARA_stuff.parse_ara import *
 from princeton_ara import *
 import argparse
 import itertools
@@ -73,7 +71,9 @@ class sample_channel(mouse_brain):
     def forward(self):
         self.parse_file_names()
         self.load_cell_corrdinates()
-        self.registration()
+        self.basic_registration()
+        
+        print("Building data in tall format...")
         self.levels=[]
         for u in range(10):
             self.levels.append(self.level_registration(u+1))
@@ -83,33 +83,93 @@ class sample_channel(mouse_brain):
     def load_cell_corrdinates(self):
         with open(self.cell_counts_path,'r') as f:
             self.cells = json.load(f)
-        self.cells=self.cells[1:1000]
+        self.cells=self.cells
         self.eliminate_double_counts()
         self.total_cells=len(self.cells)
 
     def eliminate_double_counts(self):
+        print('Eliminating double counts')
         doubled_counts=self.cell_coexpression(self.cells, self.cells)
         self.cells=np.delete(self.cells,np.where(doubled_counts==1),axis=0)
         
-    def parrallel_registration(self,inputs):
-        (x,y,z),index=inputs
-        if z<3900: #### DELETE AFTER TEST ###
-            image_name=self.atlas_path+str(z)+".tiff"
+    def basic_registration(self):
+        """ Registration algorithim that does not run parrallel workers """
+        # Get cell atlas IDS
+        self.cells=np.array(self.cells)
+        self.cells=self.cells[self.cells[:,2].argsort()] #sort by z dimension
+        images_needed=np.unique(self.cells[:,2]) #All images that will be opened
+        
+        # Empty List for registered regions
+        self.cell_atlas_ids=[]
+        
+        #Loop through unique images
+        print("Registering cells to atlas...")
+        for image in tqdm(images_needed):
+            #Open up image
+            image_name=self.atlas_path+str(image)+".tiff"
             image_oh=np.array(imread(image_name))
             
-            try: #DELETE LATER
-                brain_region=image_oh[x,y]
+            cells_oh=self.cells[np.where(self.cells[:,2]==image),:]
+            for cell in cells_oh:
+                x,y,z=cell[0]
+                brain_region=image_oh[y,x]
+                self.cell_atlas_ids.append(brain_region)
+
+        dt=np.dtype('float,float')
+        self.cell_atlas_ids=np.array(self.cell_atlas_ids,dt)
+        self.cell_atlas_ids=self.cell_atlas_ids['f1']
+        self.cell_atlas_ids=self.cell_atlas_ids[~np.isnan(self.cell_atlas_ids)]
+        self.cell_atlas_ids=self.cell_atlas_ids[self.cell_atlas_ids!=0]
+        #Get atlas names
+        self.cell_atlas_names=[]
+        self.not_on_list=[]
+        for c in self.cell_atlas_ids:
+            try:
+                self.cell_atlas_names.append(self.all_children[0][self.all_children[1].index(c)])
             except:
-                brain_region=image_oh[-1,-1]
-            return index,brain_region
+                self.not_on_list.append(c)
+        return
+        
+    def parrallel_registration(self,inputs):
+        image,coordinates=inputs
+        
+        #Open the image
+        image_name=self.atlas_path+str(image)+".tiff"
+        image_oh=np.array(imread(image_name))
+        
+        #Loop through coordinates and get brain regions
+        brain_regions=[]
+        if coordinates.shape[1]==1:
+            x,y,z=coordinates[0][0]
+            brain_region=image_oh[y,x]
+            brain_regions.append(brain_region)
+        else:
+            for coordinate in coordinates:
+                x,y,z=coordinate[0][0]
+                brain_region=image_oh[y,x]
+                brain_regions.append(brain_region)
+        return image,brain_regions
     
     def registration(self):
         """ Get all the registration infromation regarding each neuron"""
         # Get cell atlas IDS
-        inputs=list(zip(self.cells,range(len(self.cells))))
-        with Pool() as p:
-            self.cell_atlas_ids=p.map(self.parrallel_registration,inputs)
+        self.cells=np.array(self.cells)
+        self.cells=self.cells[self.cells[:,2].argsort()] #sort by z dimension
+        images_needed=np.unique(self.cells[:,2])
+        inputs=[]
+        inputs2=[]
+        for i in images_needed:
+            cells_oh=self.cells[np.where(self.cells[:,2]==i),:]
+            if cells_oh.shape[1]>1:
+                inputs.append([i,self.cells[np.where(self.cells[:,2]==i),:]])
+            else:
+                inputs2.append([i,self.cells[np.where(self.cells[:,2]==i),:]])
         
+        #inputs=list(zip(self.cells,range(len(self.cells))))
+        with Pool() as p:
+            self.cell_atlas_ids=list(tqdm(p.imap(self.parrallel_registration,inputs),total=len(inputs)))
+            #self.cell_atlas_ids=p.map(self.parrallel_registration,inputs)
+            
         dt=np.dtype('float,float')
         self.cell_atlas_ids=np.array(self.cell_atlas_ids,dt)
         self.cell_atlas_ids=self.cell_atlas_ids['f1']
@@ -203,7 +263,6 @@ class sample_channel(mouse_brain):
             cage, subjectid, virus, behavior, treatment, channel,number_of_cell_index,
             brain_region_lf,l2,l3,l4,l5,l6, etc.
         """
-        ipdb.set_trace()
         cell_array=np.asarray(self.cell_atlas_names)
         level_array=np.asarray(self.levels)
         cell_array=cell_array.T
@@ -228,26 +287,26 @@ class sample_channel(mouse_brain):
 Testing code:
     02/15 cell counts and atlas are different brains, just testing to see if it runs....
 """
-image_path = "/athena/listonlab/scratch/dje4001/rabies_cort_experimental_restain/lightsheet/stitched/20221104_10_02_32_CAGE4094795_ANIMAL1_VIRUSRABIES_CORTEXPERIMENTAL/Ex_647_Em_680/"
-atlas_path = "/athena/listonlab/scratch/dje4001/rabies_cort_experimental/lightsheet/registered/20220925_12_49_48_CAGE3752774_ANIMAL04_VIRUSRABIES_CORTEXPERIMENTAL/tiffsequence/"
-cell_counts_path = "/athena/listonlab/scratch/dje4001/rabies_cort_experimental_restain/lightsheet/segmented/20221104_10_02_32_CAGE4094795_ANIMAL1_VIRUSRABIES_CORTEXPERIMENTAL/Ex_647_Em_680/cell_detect_test.json"
-output_path = "/athena/listonlab/scratch/dje4001/rabies_cort_experimental_restain/lightsheet/tallformat/20221104_10_02_32_CAGE4094795_ANIMAL1_VIRUSRABIES_CORTEXPERIMENTAL/"
-Tree=Graph(ontology_dict)
-channel=sample_channel(image_path,atlas_path,cell_counts_path,output_path,5,Tree,ara_file)
-channel.forward()
+# image_path = "/athena/listonlab/scratch/dje4001/rabies_cort_control_restain/lightsheet/stitched/20221105_10_35_50_CAGE3811494_ANIMAL1019_VIRUSRABIES_CORTCONTROL/Ex_647_Em_680/"
+# atlas_path = "/athena/listonlab/scratch/dje4001/rabies_cort_control_restain/lightsheet/registered/20221105_10_35_50_CAGE3811494_ANIMAL1019_VIRUSRABIES_CORTCONTROL/tiffsequence/"
+# cell_counts_path = "/athena/listonlab/scratch/dje4001/rabies_cort_control_restain/lightsheet/segmented/20221105_10_35_50_CAGE3811494_ANIMAL1019_VIRUSRABIES_CORTCONTROL/Ex_647_Em_680/cell_detect_test.json"
+# output_path = "/athena/listonlab/scratch/dje4001/rabies_cort_control_restain/lightsheet/tallformat/20221105_10_35_50_CAGE3811494_ANIMAL1019_VIRUSRABIES_CORTCONTROL/"
+# Tree=Graph(ontology_dict)
+# channel=sample_channel(image_path,atlas_path,cell_counts_path,output_path,5,Tree,ara_file)
+# channel.forward()
 
-""" 
+parser=argparse.ArgumentParser()
+parser.add_argument("--image_path",type=str,required=True)
+parser.add_argument("--atlas_path",type=str,required=True)
+parser.add_argument("--cell_counts_path",type=str,required=True)
+parser.add_argument("--output_path",type=str,required=True)
+
 if __name__=='__main__':
-    parser=argparse.ArgumentParser()
-    parser.add_argument("--image_path",type=str,required=True)
-    parser.add_argument("--atlas_path",type=str,required=True)
-    parser.add_argument("--cell_counts_path",type=str,required=True)
-    parser.add_argument("--output_path",type=str,required=True)
+    args=parser.parse_args()
     Tree=Graph(ontology_dict)
-    channel=sample_channel(parser.image_path,parser.atlas_path,parser.cell_counts_path,parser.output_path,5,Tree,ara_file)
+    channel=sample_channel(args.image_path,args.atlas_path,args.cell_counts_path,args.output_path,5,Tree,ara_file)
     channel.forward()
 
-"""
 
 
 

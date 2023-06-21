@@ -33,7 +33,7 @@ conda activate cloudreg
 cd ~/CloudReg
 
 #Perform Cloudreg registration
-python3 -m cloudreg.scripts.estrin_register -input_s3_path file://$input_path --output_s3_path $output_path --atlas_s3_path https://open-neurodata.s3.amazonaws.com/ara_2016/sagittal_50um/average_50um --parcellation_s3_path https://open-neurodata.s3.amazonaws.com/ara_2016/sagittal_10um/annotation_10um_2017 --atlas_orientation ASR -orientation LPS --rotation 0 0 0 --translation 0 0 0 --fixed_scale 1 --missing_data_correction True --grid_correction False --bias_correction True --regularization 5000.0 --iterations 3000 --registration_resolution 100
+python3 -m cloudreg.scripts.estrin_register -input_s3_path file://$input_path --output_s3_path $output_path --atlas_s3_path https://open-neurodata.s3.amazonaws.com/ara_2016/sagittal_50um/average_50um --parcellation_s3_path https://open-neurodata.s3.amazonaws.com/ara_2016/sagittal_10um/annotation_10um_2017 --atlas_orientation ASR -orientation LPS --rotation 32.8 -3.3 2.2 --translation 0 0 0 --fixed_scale 1.2 --missing_data_correction True --grid_correction False --bias_correction True --regularization 5000.0 --iterations 3000 --registration_resolution 100
 
 # Convert the registered atlas image to a tiff sequence
 cloudreg_drop=/athena/listonlab/scratch/dje4001/cloudreg_base/${exp}_${channel}_registration/

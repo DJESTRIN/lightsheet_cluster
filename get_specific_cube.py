@@ -145,12 +145,12 @@ class generate_train_data(object):
         return
     
     
-    
-input_path='/athena/listonlab/scratch/dje4001/rabies_cort_experimental/lightsheet/stitched/20220924_12_30_54_CAGE3811492_ANIMAL1022_VIRUSRABIES_CORTEXPERIMENTAL/Ex_647_Em_680/'
-output_path='/athena/listonlab/scratch/dje4001/rabies_cort_experimental/lightsheet/manual_counts_thalamus/20220924_12_30_54_CAGE3811492_ANIMAL1022_VIRUSRABIES_CORTEXPERIMENTAL/'
-### Double check x and y is correct. ImageJ x equals this script's y.
-data=generate_train_data(input_path,output_path,[3700,5100,1700,5100,1000,2700])
-data.forward([3700,5100,1700,5100,1000,2700])
+if __name__=="__main__":
+    input_path='/athena/listonlab/scratch/dje4001/rabies_cort_experimental/lightsheet/stitched/20220926_17_49_34_CAGE4094795_ANIMAL01_VIRUSRABIES_CORTEXPERIMENTAL/Ex_647_Em_680/'
+    output_path='/athena/listonlab/scratch/dje4001/rabies_cort_experimental/lightsheet/christine_poster/20220926_17_49_34_CAGE4094795_ANIMAL01_VIRUSRABIES_CORTEXPERIMENTAL/'
+    ### Double check x and y is correct. ImageJ x equals this script's y.
+    data=generate_train_data(input_path,output_path,[7300,7600,632,7104,0,4080])
+    data.forward([7300,7600,632,7104,0,4080])
 
 
 # parser=argparse.ArgumentParser()
