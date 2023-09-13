@@ -7,14 +7,17 @@ import argparse
 import os
 import glob
 from PIL import Image
-from tdqm import tqdm
+from tqdm import tqdm
 
 def pngtotiff(input_dir, output_dir):
         
     #finding all the .png files
     os.chdir(input_dir)
     files = glob.glob('**/*.png', recursive=True)
-    
+
+    #progress bar
+    progress_bar = tqdm(total = len(files), desc = '.png to .tiff conversion progress')
+
     #iterate through all files
     for file in files:
         input_path = os.path.join(input_dir, file)
@@ -24,6 +27,9 @@ def pngtotiff(input_dir, output_dir):
         #converting and saving
         img = Image.open(input_path)
         img.save(output_path, "TIFF")
+
+        #update progress bar
+        progress_bar.update()
         
     
 if __name__ == "__main__":
