@@ -7,12 +7,13 @@ import argparse
 import os
 import glob
 from PIL import Image
+from tdqm import tqdm
 
 def pngtotiff(input_dir, output_dir):
         
     #finding all the .png files
     os.chdir(input_dir)
-    files = glob.glob('/**/*.png', recursive=True)
+    files = glob.glob('**/*.png', recursive=True)
     
     #iterate through all files
     for file in files:
