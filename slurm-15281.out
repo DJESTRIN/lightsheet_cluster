@@ -1,0 +1,46 @@
+Base name = 20221223_15_51_52_cage4079848_animal01_female_cohort1_fostrap2xai9tdtomato_watercontrol_0810
+Looking for images in /athena/listonlab/scratch/dje4001/lightsheet_scratch/WATERCONTROL/lightsheet/raw/20221223_15_51_52_cage4079848_animal01_female_cohort1_fostrap2xai9tdtomato_watercontrol_0810...
+Found 252000 compatible images
+Setting up 112 workers...
+Pystripe batch processing progress:
+  0%|          | 0/252000 [00:00<?, ?it/s]  0%|          | 0/252000 [00:02<?, ?it/s]
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/home/fs01/dje4001/anaconda3/envs/pystripe/lib/python3.11/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+                    ^^^^^^^^^^^^^^^^^^^
+  File "/home/fs01/dje4001/anaconda3/envs/pystripe/lib/python3.11/site-packages/pystripe/core.py", line 598, in _read_filter_save
+    read_filter_save(**input_dict)
+  File "/home/fs01/dje4001/anaconda3/envs/pystripe/lib/python3.11/site-packages/pystripe/core.py", line 553, in read_filter_save
+    fimg = filter_streaks(img, sigma, level=level, wavelet=wavelet, crossover=crossover, threshold=threshold, flat=flat, dark=dark)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/fs01/dje4001/anaconda3/envs/pystripe/lib/python3.11/site-packages/pystripe/core.py", line 423, in filter_streaks
+    img = np.array(img, dtype=np.float)
+                              ^^^^^^^^
+  File "/home/fs01/dje4001/anaconda3/envs/pystripe/lib/python3.11/site-packages/numpy/__init__.py", line 319, in __getattr__
+    raise AttributeError(__former_attrs__[attr])
+AttributeError: module 'numpy' has no attribute 'float'.
+`np.float` was a deprecated alias for the builtin `float`. To avoid this error in existing code, use `float` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.float64` here.
+The aliases was originally deprecated in NumPy 1.20; for more details and guidance see the original release note at:
+    https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/fs01/dje4001/anaconda3/envs/pystripe/bin/pystripe", line 8, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/home/fs01/dje4001/anaconda3/envs/pystripe/lib/python3.11/site-packages/pystripe/core.py", line 814, in main
+    batch_filter(input_path,
+  File "/home/fs01/dje4001/anaconda3/envs/pystripe/lib/python3.11/site-packages/pystripe/core.py", line 721, in batch_filter
+    list(tqdm.tqdm(pool.imap(_read_filter_save, args, chunksize=chunks), total=len(args), ascii=True))
+  File "/home/fs01/dje4001/anaconda3/envs/pystripe/lib/python3.11/site-packages/tqdm/std.py", line 1182, in __iter__
+    for obj in iterable:
+  File "/home/fs01/dje4001/anaconda3/envs/pystripe/lib/python3.11/multiprocessing/pool.py", line 873, in next
+    raise value
+AttributeError: module 'numpy' has no attribute 'float'.
+`np.float` was a deprecated alias for the builtin `float`. To avoid this error in existing code, use `float` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.float64` here.
+The aliases was originally deprecated in NumPy 1.20; for more details and guidance see the original release note at:
+    https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations

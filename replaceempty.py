@@ -12,10 +12,10 @@ def seek_and_destroy(path):
        images_in_stack=[]
        
        for file in os.listdir(directory[0]):
-           if file.endswith('.tiff'):
+           if file.endswith('.tiff') or file.endswith('.png'):
                images_in_stack.append((directory[0] + "/" + file))
      
-       print(images_in_stack)
+       #print(images_in_stack)
        for image in images_in_stack:
            if os.stat(image).st_size==0:
               new_image=np.zeros((2000,1600))

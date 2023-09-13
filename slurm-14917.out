@@ -1,0 +1,5 @@
+/athena/listonlab/scratch/dje4001/lightsheet_scratch/WATERCONTROLlightsheet/stitched/*/
+/athena/listonlab/scratch/dje4001/lightsheet_scratch/WATERCONTROLlightsheet/stitched/*/*/
+/athena/listonlab/scratch/dje4001/lightsheet_scratch/WATERCONTROLlightsheet/segmented/*/*/
+sbatch: error: invalid partition specified: sackler-gpu
+sbatch: error: Batch job submission failed: Invalid partition name specified

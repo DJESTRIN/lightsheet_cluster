@@ -1,0 +1,31 @@
+Base name = 20221114_21_57_43_Cage4079848_Animal2_VirusFOSCREERXAI9_COHORT1_TMT_WATER_CONTROL
+Traceback (most recent call last):
+  File "/home/fs01/dje4001/anaconda3/bin/pystripe", line 8, in <module>
+    sys.exit(main())
+  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 972, in main
+    batch_filter(input_path,
+  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 751, in batch_filter
+    os.remove(error_path)
+FileNotFoundError: [Errno 2] No such file or directory: '/athena/listonlab/scratch/dje4001/lightsheet_scratch/WATERCONTROL/lightsheet/destriped/20221114_21_57_43_Cage4079848_Animal2_VirusFOSCREERXAI9_COHORT1_TMT_WATER_CONTROL/destripe_log.txt'
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/home/fs01/dje4001/anaconda3/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/home/fs01/dje4001/anaconda3/lib/python3.8/threading.py", line 870, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/fs01/dje4001/anaconda3/lib/python3.8/multiprocessing/pool.py", line 513, in _handle_workers
+    cls._maintain_pool(ctx, Process, processes, pool, inqueue,
+  File "/home/fs01/dje4001/anaconda3/lib/python3.8/multiprocessing/pool.py", line 337, in _maintain_pool
+    Pool._repopulate_pool_static(ctx, Process, processes, pool,
+  File "/home/fs01/dje4001/anaconda3/lib/python3.8/multiprocessing/pool.py", line 326, in _repopulate_pool_static
+    w.start()
+  File "/home/fs01/dje4001/anaconda3/lib/python3.8/multiprocessing/process.py", line 121, in start
+    self._popen = self._Popen(self)
+  File "/home/fs01/dje4001/anaconda3/lib/python3.8/multiprocessing/context.py", line 277, in _Popen
+    return Popen(process_obj)
+  File "/home/fs01/dje4001/anaconda3/lib/python3.8/multiprocessing/popen_fork.py", line 19, in __init__
+    self._launch(process_obj)
+  File "/home/fs01/dje4001/anaconda3/lib/python3.8/multiprocessing/popen_fork.py", line 70, in _launch
+    self.pid = os.fork()
+OSError: [Errno 12] Cannot allocate memory
+  0%|          | 389/230400 [56:36<1573:07:47, 24.62s/it]  0%|          | 398/230400 [1:06:37<1841:47:01, 28.83s/it]

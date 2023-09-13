@@ -1,0 +1,6 @@
+Could not find conda environment: cloudreg
+You can list all discoverable environments with `conda info --envs`.
+
+/athena/listonlab/scratch/dje4001/lightsheet_scratch/WATERCONTROL/lightsheet/cloudreg/*/
+FATAL:   could not open image /home/dje4001/cloudreg_local.sif: failed to retrieve path for /home/dje4001/cloudreg_local.sif: lstat /home/dje4001: no such file or directory
+If code worked, you may now cd into /home/fs01/dje4001/neuroglancer and run neuroglancer to look at brain on the scu-vis1 node.
