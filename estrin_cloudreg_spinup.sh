@@ -5,7 +5,7 @@ scratch_directory=$2
 store_finish_directory=$3
 
 # destriped data no longer needed. Send back to storage
-bash /home/dje4001/lightsheet_cluster/estrin_sendback_spinup.sh $scratch_directory/lightsheet/destriped/ $store_finish_directory destriped
+bash ~/lightsheet_cluster/estrin_sendback_spinup.sh $scratch_directory/lightsheet/destriped/ $store_finish_directory destriped
 
 # Create folder for terastitcher output
 scratch_stitch=${scratch_directory}"lightsheet/stitched/"

@@ -1,0 +1,8 @@
+Activate correct environment
+This is the input directory: /athena/listonlab/scratch/dje4001/lightsheet_scratch/WATERCONTROL/lightsheet/destriped/20230329_12_57_21_CAGE4278767_ANIMAL01_STRAINFOSTRAPXAI9TDTOMATO_COHORT04_BEHAVIORTMTWATERCONTROL/
+This is the output directory: /athena/listonlab/scratch/dje4001/lightsheet_scratch/WATERCONTROL/lightsheet/stitched/20230329_12_57_21_CAGE4278767_ANIMAL01_STRAINFOSTRAPXAI9TDTOMATO_COHORT04_BEHAVIORTMTWATERCONTROL/
+This is the input directory: /athena/listonlab/scratch/dje4001/lightsheet_scratch/WATERCONTROL/lightsheet/destriped/20230329_12_57_21_CAGE4278767_ANIMAL01_STRAINFOSTRAPXAI9TDTOMATO_COHORT04_BEHAVIORTMTWATERCONTROL/Ex_647_Em_680/
+
+Time elapsed: 0.0 seconds
+
+[H[2J[3Jslurmstepd: error: *** JOB 18449 ON g0002 CANCELLED AT 2023-09-18T16:02:23 ***

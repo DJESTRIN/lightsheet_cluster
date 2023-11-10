@@ -1,0 +1,3079 @@
+Activate correct environment
+This is the input directory: /athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/
+This is the output directory: /athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/
+This is the input directory: /athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600/
+
+Time elapsed: 1.0 seconds
+
+[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3JOPERATION:	Pairwise displacement computation
+PHASE:		Initializing...
+TIME REMAINING:	0 minutes and 0 seconds
+PROGRESS:	0%	::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 1 of 536
+TIME REMAINING:	2746 minutes and 20 seconds
+PROGRESS:	0%	::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 2 of 536
+TIME REMAINING:	2095 minutes and 57 seconds
+PROGRESS:	0%	::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 3 of 536
+TIME REMAINING:	1856 minutes and 37 seconds
+PROGRESS:	0%	::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 4 of 536
+TIME REMAINING:	1746 minutes and 44 seconds
+PROGRESS:	0%	::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 5 of 536
+TIME REMAINING:	1677 minutes and 57 seconds
+PROGRESS:	0%	::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 6 of 536
+TIME REMAINING:	1629 minutes and 45 seconds
+PROGRESS:	1%	*:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 7 of 536
+TIME REMAINING:	1588 minutes and 15 seconds
+PROGRESS:	1%	*:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 8 of 536
+TIME REMAINING:	1556 minutes and 30 seconds
+PROGRESS:	1%	*:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 9 of 536
+TIME REMAINING:	1535 minutes and 7 seconds
+PROGRESS:	1%	*:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 10 of 536
+TIME REMAINING:	1378 minutes and 59 seconds
+PROGRESS:	1%	*:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 11 of 536
+TIME REMAINING:	1384 minutes and 5 seconds
+PROGRESS:	2%	**::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 12 of 536
+TIME REMAINING:	1266 minutes and 20 seconds
+PROGRESS:	2%	**::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 13 of 536
+TIME REMAINING:	1272 minutes and 38 seconds
+PROGRESS:	2%	**::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 14 of 536
+TIME REMAINING:	1179 minutes and 28 seconds
+PROGRESS:	2%	**::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 15 of 536
+TIME REMAINING:	1187 minutes and 52 seconds
+PROGRESS:	2%	**::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 16 of 536
+TIME REMAINING:	1112 minutes and 2 seconds
+PROGRESS:	2%	**::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 17 of 536
+TIME REMAINING:	1124 minutes and 30 seconds
+PROGRESS:	3%	***:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 18 of 536
+TIME REMAINING:	1131 minutes and 26 seconds
+PROGRESS:	3%	***:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 19 of 536
+TIME REMAINING:	1070 minutes and 16 seconds
+PROGRESS:	3%	***:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 20 of 536
+TIME REMAINING:	1082 minutes and 18 seconds
+PROGRESS:	3%	***:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 21 of 536
+TIME REMAINING:	1029 minutes and 10 seconds
+PROGRESS:	3%	***:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 22 of 536
+TIME REMAINING:	1046 minutes and 18 seconds
+PROGRESS:	4%	****::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 23 of 536
+TIME REMAINING:	998 minutes and 51 seconds
+PROGRESS:	4%	****::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 24 of 536
+TIME REMAINING:	1012 minutes and 16 seconds
+PROGRESS:	4%	****::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 25 of 536
+TIME REMAINING:	970 minutes and 13 seconds
+PROGRESS:	4%	****::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 26 of 536
+TIME REMAINING:	985 minutes and 1 seconds
+PROGRESS:	4%	****::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 27 of 536
+TIME REMAINING:	996 minutes and 56 seconds
+PROGRESS:	5%	*****:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 28 of 536
+TIME REMAINING:	959 minutes and 45 seconds
+PROGRESS:	5%	*****:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 29 of 536
+TIME REMAINING:	974 minutes and 22 seconds
+PROGRESS:	5%	*****:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 30 of 536
+TIME REMAINING:	940 minutes and 19 seconds
+PROGRESS:	5%	*****:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 31 of 536
+TIME REMAINING:	950 minutes and 48 seconds
+PROGRESS:	5%	*****:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 32 of 536
+TIME REMAINING:	919 minutes and 16 seconds
+PROGRESS:	5%	*****:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 33 of 53[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J6
+TIME REMAINING:	930 minutes and 17 seconds
+PROGRESS:	6%	******::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 34 of 536
+TIME REMAINING:	901 minutes and 23 seconds
+PROGRESS:	6%	******::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 35 of 536
+TIME REMAINING:	915 minutes and 9 seconds
+PROGRESS:	6%	******::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 36 of 536
+TIME REMAINING:	923 minutes and 36 seconds
+PROGRESS:	6%	******::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 37 of 536
+TIME REMAINING:	896 minutes and 51 seconds
+PROGRESS:	6%	******::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 38 of 536
+TIME REMAINING:	905 minutes and 34 seconds
+PROGRESS:	7%	*******:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 39 of 536
+TIME REMAINING:	880 minutes and 47 seconds
+PROGRESS:	7%	*******:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 40 of 536
+TIME REMAINING:	890 minutes and 19 seconds
+PROGRESS:	7%	*******:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 41 of 536
+TIME REMAINING:	867 minutes and 3 seconds
+PROGRESS:	7%	*******:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 42 of 536
+TIME REMAINING:	874 minutes and 29 seconds
+PROGRESS:	7%	*******:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 43 of 536
+TIME REMAINING:	852 minutes and 25 seconds
+PROGRESS:	8%	********::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 44 of 536
+TIME REMAINING:	860 minutes and 37 seconds
+PROGRESS:	8%	********::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 45 of 536
+TIME REMAINING:	868 minutes and 20 seconds
+PROGRESS:	8%	********::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 46 of 536
+TIME REMAINING:	847 minutes and 54 seconds
+PROGRESS:	8%	********::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 47 of 536
+TIME REMAINING:	856 minutes and 5 seconds
+PROGRESS:	8%	********::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 48 of 536
+TIME REMAINING:	836 minutes and 32 seconds
+PROGRESS:	8%	********::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 49 of 536
+TIME REMAINING:	845 minutes and 47 seconds
+PROGRESS:	9%	*********:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 50 of 536
+TIME REMAINING:	827 minutes and 10 seconds
+PROGRESS:	9%	*********:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 51 of 536
+TIME REMAINING:	834 minutes and 29 seconds
+PROGRESS:	9%	*********:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 52 of 536
+TIME REMAINING:	816 minutes and 54 seconds
+PROGRESS:	9%	*********:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 53 of 536
+TIME REMAINING:	823 minutes and 40 seconds
+PROGRESS:	9%	*********:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 54 of 536
+TIME REMAINING:	829 minutes and 4 seconds
+PROGRESS:	10%	**********::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 55 of 536
+TIME REMAINING:	812 minutes and 18 seconds
+PROGRESS:	10%	**********::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 56 of 536
+TIME REMAINING:	819 minutes and 34 seconds
+PROGRESS:	10%	**********::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 57 of 536
+TIME REMAINING:	803 minutes and 30 seconds
+PROGRESS:	10%	**********::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 58 of 536
+TIME REMAINING:	810 minutes and 32 seconds
+PROGRESS:	10%	**********::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 59 of 536
+TIME REMAINING:	795 minutes and 16 seconds
+PROGRESS:	11%	***********:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 60 of 536
+TIME REMAINING:	801 minutes and 8 seconds
+PROGRESS:	11%	***********:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 61 of 536
+TIME REMAINING:	786 minutes and 28 seconds
+PROGRESS:	11%	***********:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 62 of 536
+TIME REMAINING:	791 minutes and 39 seconds
+PROGRESS:	11%	***********:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 63 of 536
+TIME REMAINING:	796 minutes and 35 seconds
+PROGRESS:	11%	***********:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 64 of 536
+TIME REMAINING:	782 minutes and 36 seconds
+PROGRESS:	11%	***********:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 65 of 536
+TIME REMAINING:	769 minutes and 3 seconds
+PROGRESS:	12%	************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 66 of 536
+TIME REMAINING:	755 minutes and 47 seconds
+PROGRESS:	12%	*********[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J***::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 67 of 536
+TIME REMAINING:	743 minutes and 3 seconds
+PROGRESS:	12%	************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 68 of 536
+TIME REMAINING:	765 minutes and 19 seconds
+PROGRESS:	12%	************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 69 of 536
+TIME REMAINING:	769 minutes and 59 seconds
+PROGRESS:	12%	************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 70 of 536
+TIME REMAINING:	774 minutes and 6 seconds
+PROGRESS:	13%	*************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 71 of 536
+TIME REMAINING:	778 minutes and 49 seconds
+PROGRESS:	13%	*************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 72 of 536
+TIME REMAINING:	783 minutes and 38 seconds
+PROGRESS:	13%	*************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 73 of 536
+TIME REMAINING:	788 minutes and 3 seconds
+PROGRESS:	13%	*************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 74 of 536
+TIME REMAINING:	791 minutes and 44 seconds
+PROGRESS:	13%	*************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 75 of 536
+TIME REMAINING:	795 minutes and 28 seconds
+PROGRESS:	13%	*************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 76 of 536
+TIME REMAINING:	798 minutes and 26 seconds
+PROGRESS:	14%	**************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 77 of 536
+TIME REMAINING:	786 minutes and 27 seconds
+PROGRESS:	14%	**************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 78 of 536
+TIME REMAINING:	790 minutes and 14 seconds
+PROGRESS:	14%	**************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 79 of 536
+TIME REMAINING:	778 minutes and 38 seconds
+PROGRESS:	14%	**************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 80 of 536
+TIME REMAINING:	782 minutes and 25 seconds
+PROGRESS:	14%	**************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 81 of 536
+TIME REMAINING:	771 minutes and 9 seconds
+PROGRESS:	15%	***************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 82 of 536
+TIME REMAINING:	774 minutes and 0 seconds
+PROGRESS:	15%	***************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 83 of 536
+TIME REMAINING:	763 minutes and 5 seconds
+PROGRESS:	15%	***************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 84 of 536
+TIME REMAINING:	766 minutes and 20 seconds
+PROGRESS:	15%	***************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 85 of 536
+TIME REMAINING:	769 minutes and 5 seconds
+PROGRESS:	15%	***************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 86 of 536
+TIME REMAINING:	758 minutes and 32 seconds
+PROGRESS:	16%	****************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 87 of 536
+TIME REMAINING:	761 minutes and 55 seconds
+PROGRESS:	16%	****************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 88 of 536
+TIME REMAINING:	751 minutes and 40 seconds
+PROGRESS:	16%	****************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 89 of 536
+TIME REMAINING:	755 minutes and 12 seconds
+PROGRESS:	16%	****************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 90 of 536
+TIME REMAINING:	745 minutes and 13 seconds
+PROGRESS:	16%	****************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 91 of 536
+TIME REMAINING:	748 minutes and 1 seconds
+PROGRESS:	16%	****************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 92 of 536
+TIME REMAINING:	738 minutes and 13 seconds
+PROGRESS:	17%	*****************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 93 of 536
+TIME REMAINING:	741 minutes and 49 seconds
+PROGRESS:	17%	*****************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 94 of 536
+TIME REMAINING:	745 minutes and 54 seconds
+PROGRESS:	17%	*****************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 95 of 536
+TIME REMAINING:	736 minutes and 28 seconds
+PROGRESS:	17%	*****************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 96 of 536
+TIME REMAINING:	740 minutes and 7 seconds
+PROGRESS:	17%	*****************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 97 of 536
+TIME REMAINING:	730 minutes and 50 seconds
+PROGRESS:	18%	******************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 98 of 536
+TIME REMAINING:	734 minutes and 37 seconds
+PROGRESS:	18%	******************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 99 of 536
+TIME REMAINING:	725 minutes and 32 seconds
+PROGRESS:	18%	******************:::::::::::::::::::::::::::::::::::::::::[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J:::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 100 of 536
+TIME REMAINING:	729 minutes and 56 seconds
+PROGRESS:	18%	******************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 101 of 536
+TIME REMAINING:	721 minutes and 7 seconds
+PROGRESS:	18%	******************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 102 of 536
+TIME REMAINING:	724 minutes and 23 seconds
+PROGRESS:	19%	*******************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 103 of 536
+TIME REMAINING:	726 minutes and 34 seconds
+PROGRESS:	19%	*******************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 104 of 536
+TIME REMAINING:	717 minutes and 59 seconds
+PROGRESS:	19%	*******************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 105 of 536
+TIME REMAINING:	720 minutes and 23 seconds
+PROGRESS:	19%	*******************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 106 of 536
+TIME REMAINING:	712 minutes and 0 seconds
+PROGRESS:	19%	*******************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 107 of 536
+TIME REMAINING:	715 minutes and 12 seconds
+PROGRESS:	19%	*******************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 108 of 536
+TIME REMAINING:	706 minutes and 59 seconds
+PROGRESS:	20%	********************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 109 of 536
+TIME REMAINING:	709 minutes and 46 seconds
+PROGRESS:	20%	********************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 110 of 536
+TIME REMAINING:	701 minutes and 44 seconds
+PROGRESS:	20%	********************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 111 of 536
+TIME REMAINING:	704 minutes and 11 seconds
+PROGRESS:	20%	********************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 112 of 536
+TIME REMAINING:	706 minutes and 2 seconds
+PROGRESS:	20%	********************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 113 of 536
+TIME REMAINING:	698 minutes and 11 seconds
+PROGRESS:	21%	*********************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 114 of 536
+TIME REMAINING:	700 minutes and 55 seconds
+PROGRESS:	21%	*********************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 115 of 536
+TIME REMAINING:	693 minutes and 14 seconds
+PROGRESS:	21%	*********************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 116 of 536
+TIME REMAINING:	695 minutes and 13 seconds
+PROGRESS:	21%	*********************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 117 of 536
+TIME REMAINING:	687 minutes and 42 seconds
+PROGRESS:	21%	*********************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 118 of 536
+TIME REMAINING:	688 minutes and 59 seconds
+PROGRESS:	22%	**********************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 119 of 536
+TIME REMAINING:	681 minutes and 37 seconds
+PROGRESS:	22%	**********************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 120 of 536
+TIME REMAINING:	683 minutes and 48 seconds
+PROGRESS:	22%	**********************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 121 of 536
+TIME REMAINING:	685 minutes and 12 seconds
+PROGRESS:	22%	**********************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 122 of 536
+TIME REMAINING:	678 minutes and 0 seconds
+PROGRESS:	22%	**********************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 123 of 536
+TIME REMAINING:	679 minutes and 56 seconds
+PROGRESS:	22%	**********************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 124 of 536
+TIME REMAINING:	672 minutes and 49 seconds
+PROGRESS:	23%	***********************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 125 of 536
+TIME REMAINING:	675 minutes and 18 seconds
+PROGRESS:	23%	***********************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 126 of 536
+TIME REMAINING:	668 minutes and 18 seconds
+PROGRESS:	23%	***********************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 127 of 536
+TIME REMAINING:	669 minutes and 25 seconds
+PROGRESS:	23%	***********************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 128 of 536
+TIME REMAINING:	662 minutes and 37 seconds
+PROGRESS:	23%	***********************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 129 of 536
+TIME REMAINING:	663 minutes and 46 seconds
+PROGRESS:	24%	************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 130 of 536
+TIME REMAINING:	665 minutes and 0 seconds
+PROGRESS:	24%	************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 131 of 536
+TIME REMAINING:	658 minutes and 21 seconds
+PROGRESS:	24%	************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 132 of 536
+TIME REMAINING:	651 minutes and 45 seconds
+PROGRESS:	24%	************************::::::::::::::::::::::::::::::::::::::::::::::::[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 133 of 536
+TIME REMAINING:	645 minutes and 18 seconds
+PROGRESS:	24%	************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 134 of 536
+TIME REMAINING:	638 minutes and 57 seconds
+PROGRESS:	25%	*************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 135 of 536
+TIME REMAINING:	647 minutes and 56 seconds
+PROGRESS:	25%	*************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 136 of 536
+TIME REMAINING:	649 minutes and 12 seconds
+PROGRESS:	25%	*************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 137 of 536
+TIME REMAINING:	650 minutes and 2 seconds
+PROGRESS:	25%	*************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 138 of 536
+TIME REMAINING:	651 minutes and 18 seconds
+PROGRESS:	25%	*************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 139 of 536
+TIME REMAINING:	652 minutes and 8 seconds
+PROGRESS:	25%	*************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 140 of 536
+TIME REMAINING:	653 minutes and 55 seconds
+PROGRESS:	26%	**************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 141 of 536
+TIME REMAINING:	654 minutes and 47 seconds
+PROGRESS:	26%	**************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 142 of 536
+TIME REMAINING:	656 minutes and 15 seconds
+PROGRESS:	26%	**************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 143 of 536
+TIME REMAINING:	656 minutes and 58 seconds
+PROGRESS:	26%	**************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 144 of 536
+TIME REMAINING:	650 minutes and 47 seconds
+PROGRESS:	26%	**************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 145 of 536
+TIME REMAINING:	652 minutes and 9 seconds
+PROGRESS:	27%	***************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 146 of 536
+TIME REMAINING:	646 minutes and 4 seconds
+PROGRESS:	27%	***************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 147 of 536
+TIME REMAINING:	647 minutes and 48 seconds
+PROGRESS:	27%	***************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 148 of 536
+TIME REMAINING:	641 minutes and 49 seconds
+PROGRESS:	27%	***************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 149 of 536
+TIME REMAINING:	643 minutes and 3 seconds
+PROGRESS:	27%	***************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 150 of 536
+TIME REMAINING:	637 minutes and 9 seconds
+PROGRESS:	27%	***************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 151 of 536
+TIME REMAINING:	639 minutes and 1 seconds
+PROGRESS:	28%	****************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 152 of 536
+TIME REMAINING:	639 minutes and 49 seconds
+PROGRESS:	28%	****************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 153 of 536
+TIME REMAINING:	633 minutes and 59 seconds
+PROGRESS:	28%	****************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 154 of 536
+TIME REMAINING:	635 minutes and 0 seconds
+PROGRESS:	28%	****************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 155 of 536
+TIME REMAINING:	629 minutes and 15 seconds
+PROGRESS:	28%	****************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 156 of 536
+TIME REMAINING:	630 minutes and 27 seconds
+PROGRESS:	29%	*****************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 157 of 536
+TIME REMAINING:	624 minutes and 49 seconds
+PROGRESS:	29%	*****************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 158 of 536
+TIME REMAINING:	625 minutes and 53 seconds
+PROGRESS:	29%	*****************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 159 of 536
+TIME REMAINING:	620 minutes and 21 seconds
+PROGRESS:	29%	*****************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 160 of 536
+TIME REMAINING:	621 minutes and 1 seconds
+PROGRESS:	29%	*****************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 161 of 536
+TIME REMAINING:	622 minutes and 5 seconds
+PROGRESS:	30%	******************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 162 of 536
+TIME REMAINING:	616 minutes and 35 seconds
+PROGRESS:	30%	******************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 163 of 536
+TIME REMAINING:	617 minutes and 58 seconds
+PROGRESS:	30%	******************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 164 of 536
+TIME REMAINING:	612 minutes and 33 seconds
+PROGRESS:	30%	******************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 165 of 536
+TIME REMAINING:	613 minutes and 38 seconds
+PROGRESS:	30%	******************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 166 of 536
+TIME REMAINING:	608 minutes and 18 seconds
+PROGRESS:	30%	******************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 167 of 536
+TIME REMAINING:	609 minutes and 4 seconds
+PROGRESS:	31%	*******************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 168 of 536
+TIME REMAINING:	603 minutes and 50 seconds
+PROGRESS:	31%	*******************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 169 of 536
+TIME REMAINING:	604 minutes and 38 seconds
+PROGRESS:	31%	*******************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 170 of 536
+TIME REMAINING:	605 minutes and 7 seconds
+PROGRESS:	31%	*******************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 171 of 536
+TIME REMAINING:	599 minutes and 56 seconds
+PROGRESS:	31%	*******************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 172 of 536
+TIME REMAINING:	600 minutes and 29 seconds
+PROGRESS:	32%	********************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 173 of 536
+TIME REMAINING:	595 minutes and 22 seconds
+PROGRESS:	32%	********************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 174 of 536
+TIME REMAINING:	596 minutes and 13 seconds
+PROGRESS:	32%	********************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 175 of 536
+TIME REMAINING:	591 minutes and 10 seconds
+PROGRESS:	32%	********************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 176 of 536
+TIME REMAINING:	592 minutes and 5 seconds
+PROGRESS:	32%	********************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 177 of 536
+TIME REMAINING:	587 minutes and 8 seconds
+PROGRESS:	33%	*********************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 178 of 536
+TIME REMAINING:	587 minutes and 57 seconds
+PROGRESS:	33%	*********************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 179 of 536
+TIME REMAINING:	588 minutes and 27 seconds
+PROGRESS:	33%	*********************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 180 of 536
+TIME REMAINING:	583 minutes and 34 seconds
+PROGRESS:	33%	*********************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 181 of 536
+TIME REMAINING:	583 minutes and 49 seconds
+PROGRESS:	33%	*********************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 182 of 536
+TIME REMAINING:	579 minutes and 0 seconds
+PROGRESS:	33%	*********************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 183 of 536
+TIME REMAINING:	579 minutes and 21 seconds
+PROGRESS:	34%	**********************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 184 of 536
+TIME REMAINING:	574 minutes and 36 seconds
+PROGRESS:	34%	**********************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 185 of 536
+TIME REMAINING:	574 minutes and 54 seconds
+PROGRESS:	34%	**********************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 186 of 536
+TIME REMAINING:	570 minutes and 13 seconds
+PROGRESS:	34%	**********************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 187 of 536
+TIME REMAINING:	570 minutes and 15 seconds
+PROGRESS:	34%	**********************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 188 of 536
+TIME REMAINING:	570 minutes and 26 seconds
+PROGRESS:	35%	***********************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 189 of 536
+TIME REMAINING:	565 minutes and 47 seconds
+PROGRESS:	35%	***********************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 190 of 536
+TIME REMAINING:	565 minutes and 57 seconds
+PROGRESS:	35%	***********************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 191 of 536
+TIME REMAINING:	561 minutes and 23 seconds
+PROGRESS:	35%	***********************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 192 of 536
+TIME REMAINING:	561 minutes and 26 seconds
+PROGRESS:	35%	***********************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 193 of 536
+TIME REMAINING:	556 minutes and 56 seconds
+PROGRESS:	36%	************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 194 of 536
+TIME REMAINING:	556 minutes and 51 seconds
+PROGRESS:	36%	************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 195 of 536
+TIME REMAINING:	552 minutes and 25 seconds
+PROGRESS:	36%	************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 196 of 536
+TIME REMAINING:	552 minutes and 9 seconds
+PROGRESS:	36%	************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 197 of 536
+TIME REMAINING:	552 minutes and 17 seconds
+PROGRESS:	36%	************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 198 of 536
+TIME REMAINING:	547 minutes and 54 seconds
+PROGRESS:	36%	************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OP[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3JERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 199 of 536
+TIME REMAINING:	543 minutes and 34 seconds
+PROGRESS:	37%	*************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 200 of 536
+TIME REMAINING:	539 minutes and 16 seconds
+PROGRESS:	37%	*************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 201 of 536
+TIME REMAINING:	535 minutes and 0 seconds
+PROGRESS:	37%	*************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 202 of 536
+TIME REMAINING:	539 minutes and 36 seconds
+PROGRESS:	37%	*************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 203 of 536
+TIME REMAINING:	539 minutes and 57 seconds
+PROGRESS:	37%	*************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 204 of 536
+TIME REMAINING:	539 minutes and 52 seconds
+PROGRESS:	38%	**************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 205 of 536
+TIME REMAINING:	540 minutes and 23 seconds
+PROGRESS:	38%	**************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 206 of 536
+TIME REMAINING:	540 minutes and 16 seconds
+PROGRESS:	38%	**************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 207 of 536
+TIME REMAINING:	540 minutes and 32 seconds
+PROGRESS:	38%	**************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 208 of 536
+TIME REMAINING:	540 minutes and 23 seconds
+PROGRESS:	38%	**************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 209 of 536
+TIME REMAINING:	540 minutes and 29 seconds
+PROGRESS:	38%	**************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 210 of 536
+TIME REMAINING:	540 minutes and 13 seconds
+PROGRESS:	39%	***************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 211 of 536
+TIME REMAINING:	536 minutes and 2 seconds
+PROGRESS:	39%	***************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 212 of 536
+TIME REMAINING:	536 minutes and 12 seconds
+PROGRESS:	39%	***************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 213 of 536
+TIME REMAINING:	532 minutes and 3 seconds
+PROGRESS:	39%	***************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 214 of 536
+TIME REMAINING:	532 minutes and 21 seconds
+PROGRESS:	39%	***************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 215 of 536
+TIME REMAINING:	528 minutes and 15 seconds
+PROGRESS:	40%	****************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 216 of 536
+TIME REMAINING:	528 minutes and 10 seconds
+PROGRESS:	40%	****************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 217 of 536
+TIME REMAINING:	524 minutes and 7 seconds
+PROGRESS:	40%	****************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 218 of 536
+TIME REMAINING:	524 minutes and 24 seconds
+PROGRESS:	40%	****************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 219 of 536
+TIME REMAINING:	524 minutes and 6 seconds
+PROGRESS:	40%	****************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 220 of 536
+TIME REMAINING:	520 minutes and 6 seconds
+PROGRESS:	41%	*****************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 221 of 536
+TIME REMAINING:	520 minutes and 0 seconds
+PROGRESS:	41%	*****************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 222 of 536
+TIME REMAINING:	516 minutes and 2 seconds
+PROGRESS:	41%	*****************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 223 of 536
+TIME REMAINING:	516 minutes and 11 seconds
+PROGRESS:	41%	*****************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 224 of 536
+TIME REMAINING:	512 minutes and 16 seconds
+PROGRESS:	41%	*****************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 225 of 536
+TIME REMAINING:	512 minutes and 4 seconds
+PROGRESS:	41%	*****************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 226 of 536
+TIME REMAINING:	508 minutes and 11 seconds
+PROGRESS:	42%	******************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 227 of 536
+TIME REMAINING:	508 minutes and 0 seconds
+PROGRESS:	42%	******************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 228 of 536
+TIME REMAINING:	508 minutes and 9 seconds
+PROGRESS:	42%	******************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 229 of 536
+TIME REMAINING:	504 minutes and 18 seconds
+PROGRESS:	42%	******************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 230 of 536
+TIME REMAINING:	504 minutes and 31 seconds
+PROGRESS:	42%	******************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 231 of 536
+TIME REMAINING:	500 minutes and 41 seconds
+PROGRESS:	43%	*******************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise d[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3Jisplacement computation
+PHASE:		Displacement computation 232 of 536
+TIME REMAINING:	500 minutes and 46 seconds
+PROGRESS:	43%	*******************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 233 of 536
+TIME REMAINING:	497 minutes and 0 seconds
+PROGRESS:	43%	*******************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 234 of 536
+TIME REMAINING:	496 minutes and 45 seconds
+PROGRESS:	43%	*******************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 235 of 536
+TIME REMAINING:	493 minutes and 1 seconds
+PROGRESS:	43%	*******************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 236 of 536
+TIME REMAINING:	492 minutes and 54 seconds
+PROGRESS:	44%	********************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 237 of 536
+TIME REMAINING:	492 minutes and 30 seconds
+PROGRESS:	44%	********************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 238 of 536
+TIME REMAINING:	488 minutes and 49 seconds
+PROGRESS:	44%	********************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 239 of 536
+TIME REMAINING:	488 minutes and 31 seconds
+PROGRESS:	44%	********************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 240 of 536
+TIME REMAINING:	484 minutes and 50 seconds
+PROGRESS:	44%	********************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 241 of 536
+TIME REMAINING:	484 minutes and 43 seconds
+PROGRESS:	44%	********************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 242 of 536
+TIME REMAINING:	481 minutes and 6 seconds
+PROGRESS:	45%	*********************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 243 of 536
+TIME REMAINING:	480 minutes and 30 seconds
+PROGRESS:	45%	*********************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 244 of 536
+TIME REMAINING:	476 minutes and 56 seconds
+PROGRESS:	45%	*********************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 245 of 536
+TIME REMAINING:	476 minutes and 25 seconds
+PROGRESS:	45%	*********************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 246 of 536
+TIME REMAINING:	475 minutes and 50 seconds
+PROGRESS:	45%	*********************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 247 of 536
+TIME REMAINING:	472 minutes and 17 seconds
+PROGRESS:	46%	**********************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 248 of 536
+TIME REMAINING:	471 minutes and 46 seconds
+PROGRESS:	46%	**********************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 249 of 536
+TIME REMAINING:	468 minutes and 16 seconds
+PROGRESS:	46%	**********************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 250 of 536
+TIME REMAINING:	467 minutes and 48 seconds
+PROGRESS:	46%	**********************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 251 of 536
+TIME REMAINING:	464 minutes and 19 seconds
+PROGRESS:	46%	**********************************************::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 252 of 536
+TIME REMAINING:	463 minutes and 42 seconds
+PROGRESS:	47%	***********************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 253 of 536
+TIME REMAINING:	460 minutes and 16 seconds
+PROGRESS:	47%	***********************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 254 of 536
+TIME REMAINING:	459 minutes and 44 seconds
+PROGRESS:	47%	***********************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 255 of 536
+TIME REMAINING:	459 minutes and 11 seconds
+PROGRESS:	47%	***********************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 256 of 536
+TIME REMAINING:	455 minutes and 45 seconds
+PROGRESS:	47%	***********************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 257 of 536
+TIME REMAINING:	455 minutes and 23 seconds
+PROGRESS:	47%	***********************************************:::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 258 of 536
+TIME REMAINING:	452 minutes and 1 seconds
+PROGRESS:	48%	************************************************::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 259 of 536
+TIME REMAINING:	451 minutes and 34 seconds
+PROGRESS:	48%	************************************************::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 260 of 536
+TIME REMAINING:	448 minutes and 13 seconds
+PROGRESS:	48%	************************************************::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 261 of 536
+TIME REMAINING:	447 minutes and 44 seconds
+PROGRESS:	48%	************************************************::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 262 of 536
+TIME REMAINING:	444 minutes and 24 seconds
+PROGRESS:	48%	************************************************::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 263 of 536
+TIME REMAINING:	443 minutes and 51 seconds
+PROGRESS:	49%	*************************************************:::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 264 of 536
+TIME REMAINING:	443 minutes and 19 seconds
+PROGRESS:	49%	*************************************************:::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement [H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3Jcomputation
+PHASE:		Displacement computation 265 of 536
+TIME REMAINING:	440 minutes and 2 seconds
+PROGRESS:	49%	*************************************************:::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 266 of 536
+TIME REMAINING:	436 minutes and 47 seconds
+PROGRESS:	49%	*************************************************:::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 267 of 536
+TIME REMAINING:	433 minutes and 32 seconds
+PROGRESS:	49%	*************************************************:::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 268 of 536
+TIME REMAINING:	430 minutes and 20 seconds
+PROGRESS:	50%	**************************************************::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 269 of 536
+TIME REMAINING:	432 minutes and 49 seconds
+PROGRESS:	50%	**************************************************::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 270 of 536
+TIME REMAINING:	432 minutes and 15 seconds
+PROGRESS:	50%	**************************************************::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 271 of 536
+TIME REMAINING:	431 minutes and 40 seconds
+PROGRESS:	50%	**************************************************::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 272 of 536
+TIME REMAINING:	431 minutes and 19 seconds
+PROGRESS:	50%	**************************************************::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 273 of 536
+TIME REMAINING:	430 minutes and 46 seconds
+PROGRESS:	50%	**************************************************::::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 274 of 536
+TIME REMAINING:	430 minutes and 22 seconds
+PROGRESS:	51%	***************************************************:::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 275 of 536
+TIME REMAINING:	429 minutes and 38 seconds
+PROGRESS:	51%	***************************************************:::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 276 of 536
+TIME REMAINING:	429 minutes and 5 seconds
+PROGRESS:	51%	***************************************************:::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 277 of 536
+TIME REMAINING:	428 minutes and 18 seconds
+PROGRESS:	51%	***************************************************:::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 278 of 536
+TIME REMAINING:	425 minutes and 8 seconds
+PROGRESS:	51%	***************************************************:::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 279 of 536
+TIME REMAINING:	424 minutes and 33 seconds
+PROGRESS:	52%	****************************************************::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 280 of 536
+TIME REMAINING:	421 minutes and 24 seconds
+PROGRESS:	52%	****************************************************::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 281 of 536
+TIME REMAINING:	420 minutes and 54 seconds
+PROGRESS:	52%	****************************************************::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 282 of 536
+TIME REMAINING:	417 minutes and 46 seconds
+PROGRESS:	52%	****************************************************::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 283 of 536
+TIME REMAINING:	417 minutes and 22 seconds
+PROGRESS:	52%	****************************************************::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 284 of 536
+TIME REMAINING:	414 minutes and 15 seconds
+PROGRESS:	52%	****************************************************::::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 285 of 536
+TIME REMAINING:	413 minutes and 39 seconds
+PROGRESS:	53%	*****************************************************:::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 286 of 536
+TIME REMAINING:	412 minutes and 51 seconds
+PROGRESS:	53%	*****************************************************:::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 287 of 536
+TIME REMAINING:	409 minutes and 47 seconds
+PROGRESS:	53%	*****************************************************:::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 288 of 536
+TIME REMAINING:	409 minutes and 4 seconds
+PROGRESS:	53%	*****************************************************:::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 289 of 536
+TIME REMAINING:	406 minutes and 1 seconds
+PROGRESS:	53%	*****************************************************:::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 290 of 536
+TIME REMAINING:	405 minutes and 18 seconds
+PROGRESS:	54%	******************************************************::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 291 of 536
+TIME REMAINING:	402 minutes and 17 seconds
+PROGRESS:	54%	******************************************************::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 292 of 536
+TIME REMAINING:	401 minutes and 21 seconds
+PROGRESS:	54%	******************************************************::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 293 of 536
+TIME REMAINING:	398 minutes and 21 seconds
+PROGRESS:	54%	******************************************************::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 294 of 536
+TIME REMAINING:	397 minutes and 26 seconds
+PROGRESS:	54%	******************************************************::::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 295 of 536
+TIME REMAINING:	396 minutes and 36 seconds
+PROGRESS:	55%	*******************************************************:::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 296 of 536
+TIME REMAINING:	393 minutes and 38 seconds
+PROGRESS:	55%	*******************************************************:::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 297 of 536
+TIME REMAINING:	392 minutes and 57 seconds
+PROGRESS:	55%	*******************************************************:::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+P[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3JHASE:		Displacement computation 298 of 536
+TIME REMAINING:	390 minutes and 0 seconds
+PROGRESS:	55%	*******************************************************:::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 299 of 536
+TIME REMAINING:	389 minutes and 25 seconds
+PROGRESS:	55%	*******************************************************:::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 300 of 536
+TIME REMAINING:	386 minutes and 30 seconds
+PROGRESS:	55%	*******************************************************:::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 301 of 536
+TIME REMAINING:	385 minutes and 46 seconds
+PROGRESS:	56%	********************************************************::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 302 of 536
+TIME REMAINING:	382 minutes and 52 seconds
+PROGRESS:	56%	********************************************************::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 303 of 536
+TIME REMAINING:	382 minutes and 11 seconds
+PROGRESS:	56%	********************************************************::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 304 of 536
+TIME REMAINING:	381 minutes and 22 seconds
+PROGRESS:	56%	********************************************************::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 305 of 536
+TIME REMAINING:	378 minutes and 29 seconds
+PROGRESS:	56%	********************************************************::::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 306 of 536
+TIME REMAINING:	377 minutes and 33 seconds
+PROGRESS:	57%	*********************************************************:::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 307 of 536
+TIME REMAINING:	374 minutes and 42 seconds
+PROGRESS:	57%	*********************************************************:::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 308 of 536
+TIME REMAINING:	373 minutes and 58 seconds
+PROGRESS:	57%	*********************************************************:::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 309 of 536
+TIME REMAINING:	371 minutes and 7 seconds
+PROGRESS:	57%	*********************************************************:::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 310 of 536
+TIME REMAINING:	370 minutes and 21 seconds
+PROGRESS:	57%	*********************************************************:::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 311 of 536
+TIME REMAINING:	367 minutes and 32 seconds
+PROGRESS:	58%	**********************************************************::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 312 of 536
+TIME REMAINING:	366 minutes and 52 seconds
+PROGRESS:	58%	**********************************************************::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 313 of 536
+TIME REMAINING:	366 minutes and 7 seconds
+PROGRESS:	58%	**********************************************************::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 314 of 536
+TIME REMAINING:	363 minutes and 20 seconds
+PROGRESS:	58%	**********************************************************::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 315 of 536
+TIME REMAINING:	362 minutes and 22 seconds
+PROGRESS:	58%	**********************************************************::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 316 of 536
+TIME REMAINING:	359 minutes and 36 seconds
+PROGRESS:	58%	**********************************************************::::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 317 of 536
+TIME REMAINING:	358 minutes and 48 seconds
+PROGRESS:	59%	***********************************************************:::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 318 of 536
+TIME REMAINING:	356 minutes and 3 seconds
+PROGRESS:	59%	***********************************************************:::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 319 of 536
+TIME REMAINING:	355 minutes and 19 seconds
+PROGRESS:	59%	***********************************************************:::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 320 of 536
+TIME REMAINING:	352 minutes and 35 seconds
+PROGRESS:	59%	***********************************************************:::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 321 of 536
+TIME REMAINING:	351 minutes and 46 seconds
+PROGRESS:	59%	***********************************************************:::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 322 of 536
+TIME REMAINING:	350 minutes and 46 seconds
+PROGRESS:	60%	************************************************************::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 323 of 536
+TIME REMAINING:	348 minutes and 3 seconds
+PROGRESS:	60%	************************************************************::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 324 of 536
+TIME REMAINING:	347 minutes and 7 seconds
+PROGRESS:	60%	************************************************************::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 325 of 536
+TIME REMAINING:	344 minutes and 26 seconds
+PROGRESS:	60%	************************************************************::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 326 of 536
+TIME REMAINING:	343 minutes and 33 seconds
+PROGRESS:	60%	************************************************************::::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 327 of 536
+TIME REMAINING:	340 minutes and 53 seconds
+PROGRESS:	61%	*************************************************************:::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 328 of 536
+TIME REMAINING:	339 minutes and 57 seconds
+PROGRESS:	61%	*************************************************************:::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 329 of 536
+TIME REMAINING:	337 minutes and 18 seconds
+PROGRESS:	61%	*************************************************************:::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 330 of 536
+TIME REMAINING:	336 minutes and 20 seconds
+PROGRESS:	61%	*************************************************************:::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displac[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3Jement computation 331 of 536
+TIME REMAINING:	335 minutes and 23 seconds
+PROGRESS:	61%	*************************************************************:::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 332 of 536
+TIME REMAINING:	332 minutes and 45 seconds
+PROGRESS:	61%	*************************************************************:::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 333 of 536
+TIME REMAINING:	330 minutes and 8 seconds
+PROGRESS:	62%	**************************************************************::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 334 of 536
+TIME REMAINING:	327 minutes and 32 seconds
+PROGRESS:	62%	**************************************************************::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 335 of 536
+TIME REMAINING:	324 minutes and 57 seconds
+PROGRESS:	62%	**************************************************************::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 336 of 536
+TIME REMAINING:	325 minutes and 33 seconds
+PROGRESS:	62%	**************************************************************::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 337 of 536
+TIME REMAINING:	324 minutes and 33 seconds
+PROGRESS:	62%	**************************************************************::::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 338 of 536
+TIME REMAINING:	323 minutes and 28 seconds
+PROGRESS:	63%	***************************************************************:::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 339 of 536
+TIME REMAINING:	322 minutes and 28 seconds
+PROGRESS:	63%	***************************************************************:::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 340 of 536
+TIME REMAINING:	321 minutes and 23 seconds
+PROGRESS:	63%	***************************************************************:::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 341 of 536
+TIME REMAINING:	320 minutes and 20 seconds
+PROGRESS:	63%	***************************************************************:::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 342 of 536
+TIME REMAINING:	319 minutes and 15 seconds
+PROGRESS:	63%	***************************************************************:::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 343 of 536
+TIME REMAINING:	318 minutes and 19 seconds
+PROGRESS:	63%	***************************************************************:::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 344 of 536
+TIME REMAINING:	317 minutes and 11 seconds
+PROGRESS:	64%	****************************************************************::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 345 of 536
+TIME REMAINING:	314 minutes and 37 seconds
+PROGRESS:	64%	****************************************************************::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 346 of 536
+TIME REMAINING:	313 minutes and 36 seconds
+PROGRESS:	64%	****************************************************************::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 347 of 536
+TIME REMAINING:	311 minutes and 3 seconds
+PROGRESS:	64%	****************************************************************::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 348 of 536
+TIME REMAINING:	310 minutes and 10 seconds
+PROGRESS:	64%	****************************************************************::::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 349 of 536
+TIME REMAINING:	307 minutes and 39 seconds
+PROGRESS:	65%	*****************************************************************:::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 350 of 536
+TIME REMAINING:	306 minutes and 39 seconds
+PROGRESS:	65%	*****************************************************************:::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 351 of 536
+TIME REMAINING:	304 minutes and 8 seconds
+PROGRESS:	65%	*****************************************************************:::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 352 of 536
+TIME REMAINING:	303 minutes and 9 seconds
+PROGRESS:	65%	*****************************************************************:::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 353 of 536
+TIME REMAINING:	302 minutes and 1 seconds
+PROGRESS:	65%	*****************************************************************:::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 354 of 536
+TIME REMAINING:	299 minutes and 31 seconds
+PROGRESS:	66%	******************************************************************::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 355 of 536
+TIME REMAINING:	298 minutes and 26 seconds
+PROGRESS:	66%	******************************************************************::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 356 of 536
+TIME REMAINING:	295 minutes and 57 seconds
+PROGRESS:	66%	******************************************************************::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 357 of 536
+TIME REMAINING:	294 minutes and 58 seconds
+PROGRESS:	66%	******************************************************************::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 358 of 536
+TIME REMAINING:	292 minutes and 31 seconds
+PROGRESS:	66%	******************************************************************::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 359 of 536
+TIME REMAINING:	291 minutes and 23 seconds
+PROGRESS:	66%	******************************************************************::::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 360 of 536
+TIME REMAINING:	288 minutes and 56 seconds
+PROGRESS:	67%	*******************************************************************:::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 361 of 536
+TIME REMAINING:	287 minutes and 54 seconds
+PROGRESS:	67%	*******************************************************************:::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 362 of 536
+TIME REMAINING:	286 minutes and 47 seconds
+PROGRESS:	67%	*******************************************************************:::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 363 of 536
+TIME REMAINING:	284 minutes and 22 seconds
+PROGRESS:	67%	*******************************************************************:::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computa[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3Jtion 364 of 536
+TIME REMAINING:	283 minutes and 17 seconds
+PROGRESS:	67%	*******************************************************************:::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 365 of 536
+TIME REMAINING:	280 minutes and 52 seconds
+PROGRESS:	68%	********************************************************************::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 366 of 536
+TIME REMAINING:	279 minutes and 46 seconds
+PROGRESS:	68%	********************************************************************::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 367 of 536
+TIME REMAINING:	277 minutes and 22 seconds
+PROGRESS:	68%	********************************************************************::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 368 of 536
+TIME REMAINING:	276 minutes and 13 seconds
+PROGRESS:	68%	********************************************************************::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 369 of 536
+TIME REMAINING:	273 minutes and 49 seconds
+PROGRESS:	68%	********************************************************************::::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 370 of 536
+TIME REMAINING:	272 minutes and 44 seconds
+PROGRESS:	69%	*********************************************************************:::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 371 of 536
+TIME REMAINING:	271 minutes and 32 seconds
+PROGRESS:	69%	*********************************************************************:::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 372 of 536
+TIME REMAINING:	269 minutes and 10 seconds
+PROGRESS:	69%	*********************************************************************:::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 373 of 536
+TIME REMAINING:	267 minutes and 57 seconds
+PROGRESS:	69%	*********************************************************************:::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 374 of 536
+TIME REMAINING:	265 minutes and 36 seconds
+PROGRESS:	69%	*********************************************************************:::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 375 of 536
+TIME REMAINING:	264 minutes and 29 seconds
+PROGRESS:	69%	*********************************************************************:::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 376 of 536
+TIME REMAINING:	262 minutes and 8 seconds
+PROGRESS:	70%	**********************************************************************::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 377 of 536
+TIME REMAINING:	260 minutes and 52 seconds
+PROGRESS:	70%	**********************************************************************::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 378 of 536
+TIME REMAINING:	258 minutes and 33 seconds
+PROGRESS:	70%	**********************************************************************::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 379 of 536
+TIME REMAINING:	257 minutes and 19 seconds
+PROGRESS:	70%	**********************************************************************::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 380 of 536
+TIME REMAINING:	256 minutes and 5 seconds
+PROGRESS:	70%	**********************************************************************::::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 381 of 536
+TIME REMAINING:	253 minutes and 47 seconds
+PROGRESS:	71%	***********************************************************************:::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 382 of 536
+TIME REMAINING:	252 minutes and 30 seconds
+PROGRESS:	71%	***********************************************************************:::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 383 of 536
+TIME REMAINING:	250 minutes and 13 seconds
+PROGRESS:	71%	***********************************************************************:::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 384 of 536
+TIME REMAINING:	248 minutes and 59 seconds
+PROGRESS:	71%	***********************************************************************:::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 385 of 536
+TIME REMAINING:	246 minutes and 43 seconds
+PROGRESS:	71%	***********************************************************************:::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 386 of 536
+TIME REMAINING:	245 minutes and 27 seconds
+PROGRESS:	72%	************************************************************************::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 387 of 536
+TIME REMAINING:	243 minutes and 11 seconds
+PROGRESS:	72%	************************************************************************::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 388 of 536
+TIME REMAINING:	241 minutes and 56 seconds
+PROGRESS:	72%	************************************************************************::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 389 of 536
+TIME REMAINING:	240 minutes and 41 seconds
+PROGRESS:	72%	************************************************************************::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 390 of 536
+TIME REMAINING:	238 minutes and 26 seconds
+PROGRESS:	72%	************************************************************************::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 391 of 536
+TIME REMAINING:	237 minutes and 13 seconds
+PROGRESS:	72%	************************************************************************::::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 392 of 536
+TIME REMAINING:	234 minutes and 59 seconds
+PROGRESS:	73%	*************************************************************************:::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 393 of 536
+TIME REMAINING:	233 minutes and 48 seconds
+PROGRESS:	73%	*************************************************************************:::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 394 of 536
+TIME REMAINING:	231 minutes and 35 seconds
+PROGRESS:	73%	*************************************************************************:::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 395 of 536
+TIME REMAINING:	230 minutes and 21 seconds
+PROGRESS:	73%	*************************************************************************:::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 396 of 536
+TIME REMAINING:	228 minutes and 9 seconds
+PROGRESS:	73%	*************************************************************************:::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 397 of[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J 536
+TIME REMAINING:	226 minutes and 52 seconds
+PROGRESS:	74%	**************************************************************************::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 398 of 536
+TIME REMAINING:	225 minutes and 37 seconds
+PROGRESS:	74%	**************************************************************************::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 399 of 536
+TIME REMAINING:	223 minutes and 26 seconds
+PROGRESS:	74%	**************************************************************************::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 400 of 536
+TIME REMAINING:	221 minutes and 15 seconds
+PROGRESS:	74%	**************************************************************************::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 401 of 536
+TIME REMAINING:	219 minutes and 5 seconds
+PROGRESS:	74%	**************************************************************************::::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 402 of 536
+TIME REMAINING:	216 minutes and 55 seconds
+PROGRESS:	75%	***************************************************************************:::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 403 of 536
+TIME REMAINING:	216 minutes and 34 seconds
+PROGRESS:	75%	***************************************************************************:::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 404 of 536
+TIME REMAINING:	215 minutes and 18 seconds
+PROGRESS:	75%	***************************************************************************:::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 405 of 536
+TIME REMAINING:	214 minutes and 0 seconds
+PROGRESS:	75%	***************************************************************************:::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 406 of 536
+TIME REMAINING:	212 minutes and 43 seconds
+PROGRESS:	75%	***************************************************************************:::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 407 of 536
+TIME REMAINING:	211 minutes and 25 seconds
+PROGRESS:	75%	***************************************************************************:::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 408 of 536
+TIME REMAINING:	210 minutes and 7 seconds
+PROGRESS:	76%	****************************************************************************::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 409 of 536
+TIME REMAINING:	208 minutes and 47 seconds
+PROGRESS:	76%	****************************************************************************::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 410 of 536
+TIME REMAINING:	207 minutes and 30 seconds
+PROGRESS:	76%	****************************************************************************::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 411 of 536
+TIME REMAINING:	206 minutes and 8 seconds
+PROGRESS:	76%	****************************************************************************::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 412 of 536
+TIME REMAINING:	204 minutes and 0 seconds
+PROGRESS:	76%	****************************************************************************::::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 413 of 536
+TIME REMAINING:	202 minutes and 40 seconds
+PROGRESS:	77%	*****************************************************************************:::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 414 of 536
+TIME REMAINING:	200 minutes and 33 seconds
+PROGRESS:	77%	*****************************************************************************:::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 415 of 536
+TIME REMAINING:	199 minutes and 20 seconds
+PROGRESS:	77%	*****************************************************************************:::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 416 of 536
+TIME REMAINING:	197 minutes and 13 seconds
+PROGRESS:	77%	*****************************************************************************:::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 417 of 536
+TIME REMAINING:	195 minutes and 55 seconds
+PROGRESS:	77%	*****************************************************************************:::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 418 of 536
+TIME REMAINING:	193 minutes and 49 seconds
+PROGRESS:	77%	*****************************************************************************:::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 419 of 536
+TIME REMAINING:	192 minutes and 29 seconds
+PROGRESS:	78%	******************************************************************************::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 420 of 536
+TIME REMAINING:	191 minutes and 7 seconds
+PROGRESS:	78%	******************************************************************************::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 421 of 536
+TIME REMAINING:	189 minutes and 1 seconds
+PROGRESS:	78%	******************************************************************************::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 422 of 536
+TIME REMAINING:	187 minutes and 39 seconds
+PROGRESS:	78%	******************************************************************************::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 423 of 536
+TIME REMAINING:	185 minutes and 34 seconds
+PROGRESS:	78%	******************************************************************************::::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 424 of 536
+TIME REMAINING:	184 minutes and 17 seconds
+PROGRESS:	79%	*******************************************************************************:::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 425 of 536
+TIME REMAINING:	182 minutes and 13 seconds
+PROGRESS:	79%	*******************************************************************************:::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 426 of 536
+TIME REMAINING:	180 minutes and 52 seconds
+PROGRESS:	79%	*******************************************************************************:::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 427 of 536
+TIME REMAINING:	178 minutes and 48 seconds
+PROGRESS:	79%	*******************************************************************************:::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 428 of 536
+TIME REMAINING:	177 minutes and 29 seconds
+PROGRESS:	79%	*******************************************************************************:::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 429 of 536
+TIME REMAINING:	176 minutes and 9 seconds
+PROGRESS:	80%	********************************************************************************::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 430 of 536
+TIME REMAIN[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3JING:	174 minutes and 6 seconds
+PROGRESS:	80%	********************************************************************************::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 431 of 536
+TIME REMAINING:	172 minutes and 46 seconds
+PROGRESS:	80%	********************************************************************************::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 432 of 536
+TIME REMAINING:	170 minutes and 43 seconds
+PROGRESS:	80%	********************************************************************************::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 433 of 536
+TIME REMAINING:	169 minutes and 19 seconds
+PROGRESS:	80%	********************************************************************************::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 434 of 536
+TIME REMAINING:	167 minutes and 17 seconds
+PROGRESS:	80%	********************************************************************************::::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 435 of 536
+TIME REMAINING:	165 minutes and 52 seconds
+PROGRESS:	81%	*********************************************************************************:::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 436 of 536
+TIME REMAINING:	163 minutes and 51 seconds
+PROGRESS:	81%	*********************************************************************************:::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 437 of 536
+TIME REMAINING:	162 minutes and 25 seconds
+PROGRESS:	81%	*********************************************************************************:::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 438 of 536
+TIME REMAINING:	161 minutes and 0 seconds
+PROGRESS:	81%	*********************************************************************************:::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 439 of 536
+TIME REMAINING:	159 minutes and 0 seconds
+PROGRESS:	81%	*********************************************************************************:::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 440 of 536
+TIME REMAINING:	157 minutes and 34 seconds
+PROGRESS:	82%	**********************************************************************************::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 441 of 536
+TIME REMAINING:	155 minutes and 35 seconds
+PROGRESS:	82%	**********************************************************************************::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 442 of 536
+TIME REMAINING:	154 minutes and 11 seconds
+PROGRESS:	82%	**********************************************************************************::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 443 of 536
+TIME REMAINING:	152 minutes and 12 seconds
+PROGRESS:	82%	**********************************************************************************::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 444 of 536
+TIME REMAINING:	150 minutes and 47 seconds
+PROGRESS:	82%	**********************************************************************************::::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 445 of 536
+TIME REMAINING:	148 minutes and 48 seconds
+PROGRESS:	83%	***********************************************************************************:::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 446 of 536
+TIME REMAINING:	147 minutes and 27 seconds
+PROGRESS:	83%	***********************************************************************************:::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 447 of 536
+TIME REMAINING:	146 minutes and 2 seconds
+PROGRESS:	83%	***********************************************************************************:::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 448 of 536
+TIME REMAINING:	144 minutes and 4 seconds
+PROGRESS:	83%	***********************************************************************************:::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 449 of 536
+TIME REMAINING:	142 minutes and 40 seconds
+PROGRESS:	83%	***********************************************************************************:::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 450 of 536
+TIME REMAINING:	140 minutes and 43 seconds
+PROGRESS:	83%	***********************************************************************************:::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 451 of 536
+TIME REMAINING:	139 minutes and 19 seconds
+PROGRESS:	84%	************************************************************************************::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 452 of 536
+TIME REMAINING:	137 minutes and 22 seconds
+PROGRESS:	84%	************************************************************************************::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 453 of 536
+TIME REMAINING:	135 minutes and 58 seconds
+PROGRESS:	84%	************************************************************************************::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 454 of 536
+TIME REMAINING:	134 minutes and 3 seconds
+PROGRESS:	84%	************************************************************************************::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 455 of 536
+TIME REMAINING:	132 minutes and 37 seconds
+PROGRESS:	84%	************************************************************************************::::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 456 of 536
+TIME REMAINING:	131 minutes and 9 seconds
+PROGRESS:	85%	*************************************************************************************:::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 457 of 536
+TIME REMAINING:	129 minutes and 13 seconds
+PROGRESS:	85%	*************************************************************************************:::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 458 of 536
+TIME REMAINING:	127 minutes and 46 seconds
+PROGRESS:	85%	*************************************************************************************:::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 459 of 536
+TIME REMAINING:	125 minutes and 52 seconds
+PROGRESS:	85%	*************************************************************************************:::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 460 of 536
+TIME REMAINING:	124 minutes and 26 seconds
+PROGRESS:	85%	*************************************************************************************:::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 461 of 536
+TIME REMAINING:	122 minutes and 32 seconds
+PROGRESS:	86%	**************************************************************************************::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 462 of 536
+TIME REMAINING:	121 minutes and 5 seconds
+PROGRESS:	86%	**************************************************************************************::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 463 of 536
+TIME REMAINING:	119 minutes[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J and 11 seconds
+PROGRESS:	86%	**************************************************************************************::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 464 of 536
+TIME REMAINING:	117 minutes and 42 seconds
+PROGRESS:	86%	**************************************************************************************::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 465 of 536
+TIME REMAINING:	116 minutes and 13 seconds
+PROGRESS:	86%	**************************************************************************************::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 466 of 536
+TIME REMAINING:	114 minutes and 20 seconds
+PROGRESS:	86%	**************************************************************************************::::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 467 of 536
+TIME REMAINING:	112 minutes and 28 seconds
+PROGRESS:	87%	***************************************************************************************:::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 468 of 536
+TIME REMAINING:	110 minutes and 36 seconds
+PROGRESS:	87%	***************************************************************************************:::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 469 of 536
+TIME REMAINING:	108 minutes and 44 seconds
+PROGRESS:	87%	***************************************************************************************:::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 470 of 536
+TIME REMAINING:	107 minutes and 38 seconds
+PROGRESS:	87%	***************************************************************************************:::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 471 of 536
+TIME REMAINING:	106 minutes and 8 seconds
+PROGRESS:	87%	***************************************************************************************:::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 472 of 536
+TIME REMAINING:	104 minutes and 39 seconds
+PROGRESS:	88%	****************************************************************************************::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 473 of 536
+TIME REMAINING:	103 minutes and 10 seconds
+PROGRESS:	88%	****************************************************************************************::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 474 of 536
+TIME REMAINING:	101 minutes and 41 seconds
+PROGRESS:	88%	****************************************************************************************::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 475 of 536
+TIME REMAINING:	100 minutes and 11 seconds
+PROGRESS:	88%	****************************************************************************************::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 476 of 536
+TIME REMAINING:	98 minutes and 40 seconds
+PROGRESS:	88%	****************************************************************************************::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 477 of 536
+TIME REMAINING:	97 minutes and 7 seconds
+PROGRESS:	88%	****************************************************************************************::::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 478 of 536
+TIME REMAINING:	95 minutes and 35 seconds
+PROGRESS:	89%	*****************************************************************************************:::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 479 of 536
+TIME REMAINING:	93 minutes and 45 seconds
+PROGRESS:	89%	*****************************************************************************************:::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 480 of 536
+TIME REMAINING:	92 minutes and 13 seconds
+PROGRESS:	89%	*****************************************************************************************:::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 481 of 536
+TIME REMAINING:	90 minutes and 23 seconds
+PROGRESS:	89%	*****************************************************************************************:::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 482 of 536
+TIME REMAINING:	88 minutes and 51 seconds
+PROGRESS:	89%	*****************************************************************************************:::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 483 of 536
+TIME REMAINING:	87 minutes and 1 seconds
+PROGRESS:	90%	******************************************************************************************::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 484 of 536
+TIME REMAINING:	85 minutes and 29 seconds
+PROGRESS:	90%	******************************************************************************************::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 485 of 536
+TIME REMAINING:	83 minutes and 40 seconds
+PROGRESS:	90%	******************************************************************************************::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 486 of 536
+TIME REMAINING:	82 minutes and 7 seconds
+PROGRESS:	90%	******************************************************************************************::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 487 of 536
+TIME REMAINING:	80 minutes and 34 seconds
+PROGRESS:	90%	******************************************************************************************::::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 488 of 536
+TIME REMAINING:	78 minutes and 46 seconds
+PROGRESS:	91%	*******************************************************************************************:::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 489 of 536
+TIME REMAINING:	77 minutes and 13 seconds
+PROGRESS:	91%	*******************************************************************************************:::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 490 of 536
+TIME REMAINING:	75 minutes and 26 seconds
+PROGRESS:	91%	*******************************************************************************************:::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 491 of 536
+TIME REMAINING:	73 minutes and 54 seconds
+PROGRESS:	91%	*******************************************************************************************:::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 492 of 536
+TIME REMAINING:	72 minutes and 7 seconds
+PROGRESS:	91%	*******************************************************************************************:::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 493 of 536
+TIME REMAINING:	70 minutes and 33 seconds
+PROGRESS:	91%	*******************************************************************************************:::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 494 of 536
+TIME REMAINING:	68 minutes and 46 seconds
+PROGRESS:	92%	********************************************************************************************::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 495 of 536
+TIME REMAINING:	67 minutes and 14 seconds
+PROGRESS:	92%	********************************************************************************************::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 496 of 536
+TIME REMAINING:	65 minutes and 42 seconds
+PROGRESS:	92%	****[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J****************************************************************************************::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 497 of 536
+TIME REMAINING:	63 minutes and 55 seconds
+PROGRESS:	92%	********************************************************************************************::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 498 of 536
+TIME REMAINING:	62 minutes and 22 seconds
+PROGRESS:	92%	********************************************************************************************::::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 499 of 536
+TIME REMAINING:	60 minutes and 36 seconds
+PROGRESS:	93%	*********************************************************************************************:::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 500 of 536
+TIME REMAINING:	59 minutes and 3 seconds
+PROGRESS:	93%	*********************************************************************************************:::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 501 of 536
+TIME REMAINING:	57 minutes and 18 seconds
+PROGRESS:	93%	*********************************************************************************************:::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 502 of 536
+TIME REMAINING:	55 minutes and 44 seconds
+PROGRESS:	93%	*********************************************************************************************:::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 503 of 536
+TIME REMAINING:	53 minutes and 59 seconds
+PROGRESS:	93%	*********************************************************************************************:::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 504 of 536
+TIME REMAINING:	52 minutes and 26 seconds
+PROGRESS:	94%	**********************************************************************************************::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 505 of 536
+TIME REMAINING:	50 minutes and 51 seconds
+PROGRESS:	94%	**********************************************************************************************::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 506 of 536
+TIME REMAINING:	49 minutes and 7 seconds
+PROGRESS:	94%	**********************************************************************************************::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 507 of 536
+TIME REMAINING:	47 minutes and 32 seconds
+PROGRESS:	94%	**********************************************************************************************::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 508 of 536
+TIME REMAINING:	45 minutes and 48 seconds
+PROGRESS:	94%	**********************************************************************************************::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 509 of 536
+TIME REMAINING:	44 minutes and 14 seconds
+PROGRESS:	94%	**********************************************************************************************::::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 510 of 536
+TIME REMAINING:	42 minutes and 31 seconds
+PROGRESS:	95%	***********************************************************************************************:::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 511 of 536
+TIME REMAINING:	40 minutes and 56 seconds
+PROGRESS:	95%	***********************************************************************************************:::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 512 of 536
+TIME REMAINING:	39 minutes and 13 seconds
+PROGRESS:	95%	***********************************************************************************************:::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 513 of 536
+TIME REMAINING:	37 minutes and 39 seconds
+PROGRESS:	95%	***********************************************************************************************:::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 514 of 536
+TIME REMAINING:	36 minutes and 4 seconds
+PROGRESS:	95%	***********************************************************************************************:::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 515 of 536
+TIME REMAINING:	34 minutes and 21 seconds
+PROGRESS:	96%	************************************************************************************************::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 516 of 536
+TIME REMAINING:	32 minutes and 46 seconds
+PROGRESS:	96%	************************************************************************************************::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 517 of 536
+TIME REMAINING:	31 minutes and 4 seconds
+PROGRESS:	96%	************************************************************************************************::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 518 of 536
+TIME REMAINING:	29 minutes and 28 seconds
+PROGRESS:	96%	************************************************************************************************::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 519 of 536
+TIME REMAINING:	27 minutes and 47 seconds
+PROGRESS:	96%	************************************************************************************************::::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 520 of 536
+TIME REMAINING:	26 minutes and 11 seconds
+PROGRESS:	97%	*************************************************************************************************:::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 521 of 536
+TIME REMAINING:	24 minutes and 30 seconds
+PROGRESS:	97%	*************************************************************************************************:::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 522 of 536
+TIME REMAINING:	22 minutes and 53 seconds
+PROGRESS:	97%	*************************************************************************************************:::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 523 of 536
+TIME REMAINING:	21 minutes and 17 seconds
+PROGRESS:	97%	*************************************************************************************************:::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 524 of 536
+TIME REMAINING:	19 minutes and 36 seconds
+PROGRESS:	97%	*************************************************************************************************:::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 525 of 536
+TIME REMAINING:	17 minutes and 59 seconds
+PROGRESS:	97%	*************************************************************************************************:::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 526 of 536
+TIME REMAINING:	16 minutes and 19 seconds
+PROGRESS:	98%	**************************************************************************************************::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 527 of 536
+TIME REMAINING:	14 minutes and 42 seconds
+PROGRESS:	98%	**************************************************************************************************::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 528 of 536
+TIME REMAINING:	13 minutes and 3 seconds
+PROGRESS:	98%	**************************************************************************************************::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 529 of 536
+TIME REMAINING:	11 minutes and 25 seconds
+PROGRESS:	98%	**************************************************[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J************************************************::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 530 of 536
+TIME REMAINING:	9 minutes and 46 seconds
+PROGRESS:	98%	**************************************************************************************************::
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 531 of 536
+TIME REMAINING:	8 minutes and 9 seconds
+PROGRESS:	99%	***************************************************************************************************:
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 532 of 536
+TIME REMAINING:	6 minutes and 32 seconds
+PROGRESS:	99%	***************************************************************************************************:
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 533 of 536
+TIME REMAINING:	4 minutes and 53 seconds
+PROGRESS:	99%	***************************************************************************************************:
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 534 of 536
+TIME REMAINING:	3 minutes and 15 seconds
+PROGRESS:	99%	***************************************************************************************************:
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 535 of 536
+TIME REMAINING:	1 minutes and 37 seconds
+PROGRESS:	99%	***************************************************************************************************:
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Displacement computation 536 of 536
+TIME REMAINING:	0 minutes and 0 seconds
+PROGRESS:	100%	****************************************************************************************************
+
+OPERATION:	Pairwise displacement computation
+PHASE:		Ended!
+TIME REMAINING:	0 minutes and 0 seconds
+PROGRESS:	100%	****************************************************************************************************
+
+
+Time elapsed: 52144.0 seconds
+
+chmod: cannot access '/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600/xml_merging.xml': No such file or directory
+copying the xml_displcomp file to all channels
+This is the file we are copying: /athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600/xml_displcomp.xml
+This is the place it is going: /athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600/
+copying the xml_displcomp file to all channels
+This is the file we are copying: /athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600/xml_displcomp.xml
+This is the place it is going: /athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680/
+
+Time elapsed: 0.0 seconds
+
+
+Time elapsed: 0.0 seconds
+
+
+Time elapsed: 0.0 seconds
+
+/athena/cayuga_0015/scratch/dje4001/TeraStitcher-portable-1.11.10-Linux/teraconverter
+/athena/cayuga_0015/scratch/dje4001/TeraStitcher-portable-1.11.10-Linux/teraconverter
+in VolumeConverter::createDirectoryHierarchyVaa3DRaw(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600", resolutions = 1000000000, block_height = 150000, block_width = 100000, block_depth = -1, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 0.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4532.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4765.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4911.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4875.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4916.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4871.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4663.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4942.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4939.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4917.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4958.0 seconds
+
+The value for  --info  was not declared. It will be set to no_info by default.
+Scheduled job n.  0  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=0 --D1=253
+ ---> Processor  1  has calculated for  4532.061167001724
+Scheduled job n.  1  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=253 --D1=506
+ ---> Processor  1  has calculated for  4764.856453180313
+Scheduled job n.  2  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=506 --D1=759
+ ---> Processor  1  has calculated for  4910.777637243271
+Scheduled job n.  3  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=759 --D1=1012
+ ---> Processor  1  has calculated for  4875.277902603149
+Scheduled job n.  4  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=1012 --D1=1265
+ ---> Processor  1  has calculated for  4915.418106794357
+Scheduled job n.  5  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=1265 --D1=1518
+ ---> Processor  1  has calculated for  4871.427869319916
+Scheduled job n.  6  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=1518 --D1=1771
+ ---> Processor  1  has calculated for  4663.23645234108
+Scheduled job n.  7  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=1771 --D1=2024
+ ---> Processor  1  has calculated for  4942.065400123596
+Scheduled job n.  8  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=2024 --D1=2277
+ ---> Processor  1  has calculated for  4939.093550920486
+Scheduled job n.  9  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=2277 --D1=2530
+ ---> Processor  1  has calculated for  4916.737673521042
+Scheduled job n.  10  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=2530 --D1=2783
+ ---> Processor  1  has calculated for  4958.139040470123
+Scheduled job n.  11  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=2783 --D1=3036in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4990.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4886.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4918.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4930.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4897.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4896.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4773.0 seconds
+
+in VolumeConverter::mdataGenerator(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600", resolutions = 1000000000, block_height = 150000, block_width = 100000, block_depth = -1, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 0.0 seconds
+
+
+ ---> Processor  1  has calculated for  4990.216195106506
+Scheduled job n.  12  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=3036 --D1=3289
+ ---> Processor  1  has calculated for  4885.895204782486
+Scheduled job n.  13  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=3289 --D1=3542
+ ---> Processor  1  has calculated for  4917.394765377045
+Scheduled job n.  14  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=3542 --D1=3795
+ ---> Processor  1  has calculated for  4930.107701063156
+Scheduled job n.  15  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=3795 --D1=4048
+ ---> Processor  1  has calculated for  4897.66227722168
+Scheduled job n.  16  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=4048 --D1=4301
+ ---> Processor  1  has calculated for  4896.571683168411
+Scheduled job n.  17  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=4301 --D1=4542
+ ---> Processor  1  has calculated for  4772.665243864059
+Exit cpu n.  1
+The value for  --info  was not declared. It will be set to no_info by default.
+********************************************************************************
+2023-11-05 06:43:57.525876  -- Calculation started on  2 - 1 cores.
+********************************************************************************
+./teraconverter  --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 3D)" -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600/xml_placetiles.xml" -d=/ --info="/athena/cayuga_0015/scratch/dje4001/TeraStitcher-portable-1.11.10-Linux/__dims__.txt"
+The value for  --origin=  was not declared. It will be set to /athena/cayuga_0015/scratch/dje4001/TeraStitcher-portable-1.11.10-Linux/__dims__.txt by default.
+Origin file is:  /athena/cayuga_0015/scratch/dje4001/TeraStitcher-portable-1.11.10-Linux/__dims__.txt
+The value for  --slicedepth=  was not declared. It will be set to 0 by default.
+The value for  --resolutions=  was not declared. It will be set to 0 by default.
+The value for  --isotropic  was not declared. It will be set to False by default.
+vxl_V, vxl_H, vxl_D, isotropic, h, max_res, max_res_D : 1.83 1.83 2.0 False 0 0 0
+################################################################################
+Input file =  /athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600/xml_placetiles.xml
+Output directory /athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600
+Rough depth for the tiles in width direction =  100000
+Rough depth for the tiles in height direction =  150000
+Rough depth for the tiles in depth direction =  256
+Source Format =  "TIFF (unstitched, 3D)"
+Destination Format =  "TIFF (tiled, 2D)"
+Resolutions =  [0]
+Max Resolutions 0
+Width (in voxel) of the immage =  9289
+Height (in voxel) of the immage =  11740
+Depth (in voxel) of the immage =  4542
+[]
+Last input elements of the original string =  
+################################################################################
+-------->  TIFF (unstitched, 3D) TIFF (tiled, 2D) True True True
+number of work units (Depth, Height, Width):  18 1 1
+size of work units (Depth, Height, Width):  [253, 253, 253, 253, 253, 253, 253, 253, 253, 253, 253, 253, 253, 253, 253, 253, 253, 241] [11740] [9289]
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600"  --makedirs
+MASTER: first loop terminated
+MASTER: second loop terminated
+MASTER: third loop terminated
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_561_Em_600"  --metadata
+********************************************************************************
+2023-11-06 07:03:37.393399 -- Calculation ended after  87579.86753320694  seconds
+********************************************************************************
+Got to next part of loop
+This is the input directory: /athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680/
+
+Time elapsed: 0.0 seconds
+
+
+Time elapsed: 0.0 seconds
+
+
+Time elapsed: 0.0 seconds
+
+/athena/cayuga_0015/scratch/dje4001/TeraStitcher-portable-1.11.10-Linux/teraconverter
+/athena/cayuga_0015/scratch/dje4001/TeraStitcher-portable-1.11.10-Linux/teraconverter
+in VolumeConverter::createDirectoryHierarchyVaa3DRaw(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680", resolutions = 1000000000, block_height = 150000, block_width = 100000, block_depth = -1, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 0.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4831.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4406.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4454.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4516.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4534.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4548.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4529.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4529.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4536.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4559.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4610.0 seconds
+
+The value for  --info  was not declared. It will be set to no_info by default.
+Scheduled job n.  0  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=0 --D1=253
+ ---> Processor  1  has calculated for  4830.540565729141
+Scheduled job n.  1  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=253 --D1=506
+ ---> Processor  1  has calculated for  4406.514322519302
+Scheduled job n.  2  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=506 --D1=759
+ ---> Processor  1  has calculated for  4453.700362443924
+Scheduled job n.  3  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=759 --D1=1012
+ ---> Processor  1  has calculated for  4515.975953578949
+Scheduled job n.  4  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=1012 --D1=1265
+ ---> Processor  1  has calculated for  4534.6121208667755
+Scheduled job n.  5  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=1265 --D1=1518
+ ---> Processor  1  has calculated for  4547.9068241119385
+Scheduled job n.  6  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=1518 --D1=1771
+ ---> Processor  1  has calculated for  4528.617887973785
+Scheduled job n.  7  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=1771 --D1=2024
+ ---> Processor  1  has calculated for  4528.843149185181
+Scheduled job n.  8  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=2024 --D1=2277
+ ---> Processor  1  has calculated for  4535.84601688385
+Scheduled job n.  9  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=2277 --D1=2530
+ ---> Processor  1  has calculated for  4559.313670873642
+Scheduled job n.  10  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=2530 --D1=2783
+ ---> Processor  1  has calculated for  4610.386314630508
+Scheduled job n.  11  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=2783 --D1=3036in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4634.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4600.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4591.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4617.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4622.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4528.0 seconds
+
+in VolumeConverter::generateTiles(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680", resolutions = 1000000000, slice_height = 150000, slice_width = 100000, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 4355.0 seconds
+
+in VolumeConverter::mdataGenerator(path = "/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680", resolutions = 1000000000, block_height = 150000, block_width = 100000, block_depth = -1, method = 1, show_progress_bar = true, saved_img_format = tif, saved_img_depth = 16, frame_dir = "")
+
+Time elapsed: 0.0 seconds
+
+
+ ---> Processor  1  has calculated for  4633.806011676788
+Scheduled job n.  12  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=3036 --D1=3289
+ ---> Processor  1  has calculated for  4599.513318061829
+Scheduled job n.  13  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=3289 --D1=3542
+ ---> Processor  1  has calculated for  4591.038611412048
+Scheduled job n.  14  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=3542 --D1=3795
+ ---> Processor  1  has calculated for  4617.648082733154
+Scheduled job n.  15  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=3795 --D1=4048
+ ---> Processor  1  has calculated for  4622.084756135941
+Scheduled job n.  16  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=4048 --D1=4301
+ ---> Processor  1  has calculated for  4527.472400903702
+Scheduled job n.  17  is executed by rank:  1
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680"  --parallel --H0=0 --H1=9289 --V0=0 --V1=11740 --D0=4301 --D1=4542
+ ---> Processor  1  has calculated for  4355.529873371124
+Exit cpu n.  1
+The value for  --info  was not declared. It will be set to no_info by default.
+********************************************************************************
+2023-11-06 07:03:49.367250  -- Calculation started on  2 - 1 cores.
+********************************************************************************
+./teraconverter  --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 3D)" -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680/xml_placetiles.xml" -d=/ --info="/athena/cayuga_0015/scratch/dje4001/TeraStitcher-portable-1.11.10-Linux/__dims__.txt"
+The value for  --origin=  was not declared. It will be set to /athena/cayuga_0015/scratch/dje4001/TeraStitcher-portable-1.11.10-Linux/__dims__.txt by default.
+Origin file is:  /athena/cayuga_0015/scratch/dje4001/TeraStitcher-portable-1.11.10-Linux/__dims__.txt
+The value for  --slicedepth=  was not declared. It will be set to 0 by default.
+The value for  --resolutions=  was not declared. It will be set to 0 by default.
+The value for  --isotropic  was not declared. It will be set to False by default.
+vxl_V, vxl_H, vxl_D, isotropic, h, max_res, max_res_D : 1.83 1.83 2.0 False 0 0 0
+################################################################################
+Input file =  /athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680/xml_placetiles.xml
+Output directory /athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680
+Rough depth for the tiles in width direction =  100000
+Rough depth for the tiles in height direction =  150000
+Rough depth for the tiles in depth direction =  256
+Source Format =  "TIFF (unstitched, 3D)"
+Destination Format =  "TIFF (tiled, 2D)"
+Resolutions =  [0]
+Max Resolutions 0
+Width (in voxel) of the immage =  9289
+Height (in voxel) of the immage =  11740
+Depth (in voxel) of the immage =  4542
+[]
+Last input elements of the original string =  
+################################################################################
+-------->  TIFF (unstitched, 3D) TIFF (tiled, 2D) True True True
+number of work units (Depth, Height, Width):  18 1 1
+size of work units (Depth, Height, Width):  [253, 253, 253, 253, 253, 253, 253, 253, 253, 253, 253, 253, 253, 253, 253, 253, 253, 241] [11740] [9289]
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680"  --makedirs
+MASTER: first loop terminated
+MASTER: second loop terminated
+MASTER: third loop terminated
+./teraconverter --height=150000 --width=100000 --depth=256 --sfmt="TIFF (unstitched, 3D)" --dfmt="TIFF (tiled, 2D)" --resolutions=0 -s="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/destriped/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680/xml_placetiles.xml" -d="/athena/listonlab/scratch/dje4001/lightsheet_scratch/rabies_cort_control_cohort2/lightsheet/stitched/20231020_13_25_09_CAGE4467195_ANIMAL01_VIRUSRABIES_CORTCONTROL_SEXMALE/Ex_647_Em_680"  --metadata
+********************************************************************************
+2023-11-07 05:50:28.955249 -- Calculation ended after  81999.58801054955  seconds
+********************************************************************************
