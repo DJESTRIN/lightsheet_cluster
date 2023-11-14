@@ -1,41 +1,0 @@
-Base name = 20230418_15_11_38_Cage4278729_Animal01_STRAINFOSTRAPXAI9TDTOMATO_Male_Cohort4_BEHAVIORTMTWATERCONTROL
-Looking for images in /athena/listonlab/scratch/dje4001/lightsheet_scratch/WATERCONTROL/lightsheet/raw/20230418_15_11_38_Cage4278729_Animal01_STRAINFOSTRAPXAI9TDTOMATO_Male_Cohort4_BEHAVIORTMTWATERCONTROL...
-Found 137648 compatible images
-Setting up 112 workers...
-Pystripe batch processing progress:
-  0%|          | 0/137648 [00:00<?, ?it/s]  0%|          | 1/137648 [02:38<6043:23:24, 158.06s/it]  0%|          | 2/137648 [02:49<2742:11:28, 71.72s/it]   0%|          | 3/137648 [02:55<1598:39:23, 41.81s/it]  0%|          | 6/137648 [02:56<548:53:56, 14.36s/it]   0%|          | 29/137648 [02:57<68:06:18,  1.78s/it]  0%|          | 89/137648 [02:58<16:18:27,  2.34it/s]  0%|          | 93/137648 [02:58<15:19:41,  2.49it/s]  0%|          | 103/137648 [02:59<13:18:49,  2.87it/s]  0%|          | 103/137648 [03:10<13:18:49,  2.87it/s]09 AT 2023-09-12T17:08:33 DUE TO JOB NOT ENDING WITH SIGNALS ***
-slurmstepd: error: Container 200579 in cgroup plugin has 27 processes, giving up after 383 sec
-  0%|          | 113/137648 [04:42<96:17:57,  2.52s/it]  0%|          | 114/137648 [05:05<119:08:23,  3.12s/it]  0%|          | 115/137648 [05:08<118:39:48,  3.11s/it]  0%|          | 117/137648 [05:12<115:44:54,  3.03s/it]  0%|          | 119/137648 [05:13<101:10:32,  2.65s/it]  0%|          | 122/137648 [05:19<97:35:32,  2.55s/it]   0%|          | 126/137648 [05:22<76:06:05,  1.99s/it]  0%|          | 131/137648 [05:30<71:42:57,  1.88s/it]  0%|          | 141/137648 [05:34<43:58:04,  1.15s/it]  0%|          | 152/137648 [05:36<27:49:39,  1.37it/s]  0%|          | 165/137648 [05:37<16:45:58,  2.28it/s]  0%|          | 170/137648 [05:39<17:01:59,  2.24it/s]  0%|          | 185/137648 [05:40<10:43:30,  3.56it/s]  0%|          | 221/137648 [05:43<5:35:37,  6.82it/s]   0%|          | 221/137648 [06:00<5:35:37,  6.82it/s]  0%|          | 225/137648 [07:17<84:15:53,  2.21s/it]  0%|          | 226/137648 [07:32<99:26:26,  2.61s/it]  0%|          | 228/137648 [07:42<105:26:34,  2.76s/it]  0%|          | 229/137648 [07:42<100:17:54,  2.63s/it]orker
-    result = (True, func(*args, **kwds))
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 652, in _read_filter_save
-    read_filter_save(**input_dict)
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 607, in read_filter_save
-    fimg = filter_streaks(img, sigma, level=level, wavelet=wavelet, crossover=crossover, threshold=threshold, flat=flat, dark=dark)
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 474, in filter_streaks
-    fimg = foreground_filtered * f + background_filtered * (1 - f)
-numpy.core._exceptions._ArrayMemoryError: Unable to allocate 24.4 MiB for an array with shape (1600, 2000) and data type float64
-"""
-
-The above exception was the direct cause of the following exception:
-
-Traceback (most recent call last):
-  File "/home/fs01/dje4001/anaconda3/bin/pystripe", line 8, in <module>
-    sys.exit(main())
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 972, in main
-    batch_filter(input_path,
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 824, in batch_filter
-    list(tqdm.tqdm(pool.imap(_read_filter_save, args, chunksize=chunks), total=len(args), ascii=True))
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/tqdm/std.py", line 1195, in __iter__
-    for obj in iterable:
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/multiprocessing/pool.py", line 868, in next
-    raise value
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/multiprocessing/pool.py", line 125, in worker
-    result = (True, func(*args, **kwds))
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 652, in _read_filter_save
-    read_filter_save(**input_dict)
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 607, in read_filter_save
-    fimg = filter_streaks(img, sigma, level=level, wavelet=wavelet, crossover=crossover, threshold=threshold, flat=flat, dark=dark)
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 474, in filter_streaks
-    fimg = foreground_filtered * f + background_filtered * (1 - f)
-numpy.core._exceptions.MemoryError: Unable to allocate 24.4 MiB for an array with shape (1600, 2000) and data type float64
-  0%|          | 230/137648 [07:49<111:15:25,  2.91s/it]  0%|          | 234/137648 [07:52<87:44:41,  2.30s/it]   0%|          | 237/137648 [07:52<68:10:42,  1.79s/it]  0%|          | 239/137648 [07:58<74:41:35,  1.96s/it]  0%|          | 252/137648 [08:01<34:28:17,  1.11it/s]  0%|          | 256/137648 [08:03<31:23:29,  1.22it/s]  0%|          | 257/137648 [08:05<33:49:21,  1.13it/s]  0%|          | 260/137648 [08:07<32:29:46,  1.17it/s]  0%|          | 261/137648 [08:11<42:32:14,  1.11s/it]  0%|          | 262/137648 [08:12<40:39:55,  1.07s/it]  0%|          | 266/137648 [08:14<35:18:27,  1.08it/s]  0%|          | 284/137648 [08:19<17:10:01,  2.22it/s]  0%|          | 289/137648 [08:21<15:41:11,  2.43it/s]  0%|          | 307/137648 [08:24<10:57:53,  3.48it/s]  0%|          | 324/137648 [08:27<9:03:52,  4.21it/s]   0%|          | 336/137648 [08:28<7:30:49,  5.08it/s]  0%|          | 337/137648 [09:59<125:24:38,  3.29s/it]  0%|          | 338/137648 [10:02<125:18:24,  3.29s/it]  0%|          | 339/137648 [10:06<128:19:34,  3.36s/it]  0%|          | 340/137648 [10:17<151:11:29,  3.96s/it]  0%|          | 343/137648 [10:23<132:19:14,  3.47s/it]  0%|          | 345/137648 [10:26<117:38:31,  3.08s/it]  0%|          | 348/137648 [10:33<107:17:04,  2.81s/it]  0%|          | 354/137648 [10:33<58:20:04,  1.53s/it]   0%|          | 358/137648 [10:37<51:34:06,  1.35s/it]  0%|          | 358/137648 [10:50<51:34:06,  1.35s/it]

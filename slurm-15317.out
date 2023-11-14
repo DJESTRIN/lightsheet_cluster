@@ -1,47 +1,0 @@
-Base name = 20230415_13_58_29_Cage4278725_Animal02_STRAINFOSTRAPXAI9TDTOMATO_Female_Cohort4_BEHAVIORTMTWATERCONTROL
-Looking for images in /athena/listonlab/scratch/dje4001/lightsheet_scratch/WATERCONTROL/lightsheet/raw/20230415_13_58_29_Cage4278725_Animal02_STRAINFOSTRAPXAI9TDTOMATO_Female_Cohort4_BEHAVIORTMTWATERCONTROL...
-Found 141652 compatible images
-Setting up 112 workers...
-Pystripe batch processing progress:
-  0%|          | 0/141652 [00:00<?, ?it/s]
-multiprocessing.pool.RemoteTraceback: 
-"""
-Traceback (most recent call last):
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/multiprocessing/pool.py", line 125, in worker
-    result = (True, func(*args, **kwds))
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 652, in _read_filter_save
-    read_filter_save(**input_dict)
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 607, in read_filter_save
-    fimg = filter_streaks(img, sigma, level=level, wavelet=wavelet, crossover=crossover, threshold=threshold, flat=flat, dark=dark)
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 471, in filter_streaks
-    foreground_filtered = filter_subband(foreground, sigma[0], level, wavelet)
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 388, in filter_subband
-    img_log = np.log(1 + img)
-numpy.core._exceptions._ArrayMemoryError: Unable to allocate 24.4 MiB for an array with shape (1600, 2000) and data type float64
-"""
-
-The above exception was the direct cause of the following exception:
-
-Traceback (most recent call last):
-  File "/home/fs01/dje4001/anaconda3/bin/pystripe", line 8, in <module>
-    sys.exit(main())
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 972, in main
-    batch_filter(input_path,
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 824, in batch_filter
-    list(tqdm.tqdm(pool.imap(_read_filter_save, args, chunksize=chunks), total=len(args), ascii=True))
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/tqdm/std.py", line 1195, in __iter__
-    for obj in iterable:
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/multiprocessing/pool.py", line 868, in next
-    raise value
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/multiprocessing/pool.py", line 125, in worker
-    result = (True, func(*args, **kwds))
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 652, in _read_filter_save
-    read_filter_save(**input_dict)
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 607, in read_filter_save
-    fimg = filter_streaks(img, sigma, level=level, wavelet=wavelet, crossover=crossover, threshold=threshold, flat=flat, dark=dark)
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 471, in filter_streaks
-    foreground_filtered = filter_subband(foreground, sigma[0], level, wavelet)
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 388, in filter_subband
-    img_log = np.log(1 + img)
-numpy.core._exceptions.MemoryError: Unable to allocate 24.4 MiB for an array with shape (1600, 2000) and data type float64
-  0%|          | 1/141652 [03:02<7190:04:19, 182.73s/it]  0%|          | 8/141652 [03:03<656:12:59, 16.68s/it]    0%|          | 15/141652 [03:04<289:11:20,  7.35s/it]  0%|          | 26/141652 [03:04<127:53:23,  3.25s/it]  0%|          | 48/141652 [03:04<49:25:34,  1.26s/it]   0%|          | 109/141652 [03:05<14:28:25,  2.72it/s]  0%|          | 109/141652 [03:19<14:28:25,  2.72it/s]  0%|          | 113/141652 [05:17<94:37:24,  2.41s/it]  0%|          | 114/141652 [05:24<98:44:05,  2.51s/it]  0%|          | 124/141652 [05:34<84:26:10,  2.15s/it]  0%|          | 131/141652 [05:47<82:10:50,  2.09s/it]  0%|          | 133/141652 [05:47<77:05:01,  1.96s/it]  0%|          | 138/141652 [05:50<64:58:46,  1.65s/it]  0%|          | 161/141652 [05:52<29:41:38,  1.32it/s]  0%|          | 178/141652 [05:55<21:23:03,  1.84it/s]  0%|          | 224/141652 [05:56<8:55:26,  4.40it/s]   0%|          | 224/141652 [06:09<8:55:26,  4.40it/s]  0%|          | 225/141652 [07:43<85:18:00,  2.17s/it]  0%|          | 226/141652 [07:45<84:21:59,  2.15s/it]  0%|          | 226/141652 [07:59<84:21:59,  2.15s/it]  0%|          | 229/141652 [08:14<113:18:45,  2.88s/it]  0%|          | 232/141652 [08:14<100:35:17,  2.56s/it]  0%|          | 235/141652 [08:15<87:20:43,  2.22s/it]   0%|          | 243/141652 [08:19<62:08:33,  1.58s/it]  0%|          | 246/141652 [08:22<58:18:29,  1.48s/it]  0%|          | 251/141652 [08:23<43:53:29,  1.12s/it]  0%|          | 255/141652 [08:24<36:24:08,  1.08it/s]  0%|          | 257/141652 [08:24<31:42:17,  1.24it/s]  0%|          | 259/141652 [08:25<28:45:44,  1.37it/s]  0%|          | 262/141652 [08:33<50:54:35,  1.30s/it]  0%|          | 266/141652 [08:35<38:27:16,  1.02it/s]  0%|          | 271/141652 [08:35<24:48:38,  1.58it/s]  0%|          | 282/141652 [08:36<13:21:45,  2.94it/s]  0%|          | 285/141652 [08:37<12:40:53,  3.10it/s]  0%|          | 296/141652 [08:41<13:23:27,  2.93it/s]  0%|          | 327/141652 [08:42<5:50:07,  6.73it/s]   0%|          | 336/141652 [08:47<9:13:56,  4.25it/s]  0%|          | 337/141652 [10:22<131:02:52,  3.34s/it]  0%|          | 338/141652 [10:26<132:52:03,  3.38s/it]  0%|          | 339/141652 [10:28<129:58:16,  3.31s/it]  0%|          | 340/141652 [10:49<183:43:00,  4.68s/it]
