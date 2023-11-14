@@ -46,7 +46,7 @@ class generate_train_data(object):
         if not args:
             # Generates 20 cube data sets for the given sample. 
             cubes=[]
-            for u in range(20):
+            for u in range(40):
                 x,y,z=random.randint(0,(self.x-500)),random.randint(0,(self.y-500)),random.randint(0,(self.z-500))
                 cube_oh=[x,x+500,y,y+500,z,z+500]
                 cubes.append(cube_oh)
