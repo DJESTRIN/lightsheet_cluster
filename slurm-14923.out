@@ -1,7 +1,0 @@
-bash: /home/dje4001/lightsheet_cluster/estrin_sendback_spinup.sh: No such file or directory
-sbatch: error: invalid partition specified: sackler-gpu
-sbatch: error: Batch job submission failed: Invalid partition name specified
-Submitted batch job 14924
-Submitted batch job 14925
-Submitted batch job 14926
-Submitted batch job 14927
