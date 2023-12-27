@@ -101,8 +101,6 @@ def analyze(gt_file,pred_file):
     gt=np.load(gt_file,allow_pickle=True,encoding="bytes")
     gt=gt.item()
     gt=gt['Red']
-
-    #ipdb.set_trace() 
     
     F1s=[]
     for threshes in tqdm.tqdm(range(70,100)):
@@ -114,8 +112,6 @@ def analyze(gt_file,pred_file):
             F1=calculate_f1(cell_coordinates,gt)
             F1s.append([threshes,F1])
 
-     
-    ipdb.set_trace()
     F1s=np.asarray(F1s)
     return F1s 
 
