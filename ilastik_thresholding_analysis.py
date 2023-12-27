@@ -103,7 +103,7 @@ def analyze(gt_file,pred_file):
     gt=gt['Red']
     
     F1s=[]
-    for threshes in tqdm.tqdm(range(70,100)):
+    for threshes in tqdm.tqdm(range(70,100),total=len(range(70,100))):
         threshes=threshes/100
         preds,cells=get_cells(pred_file,threshes)
     
