@@ -8,6 +8,7 @@ import os
 import glob
 from tqdm import tqdm as tq
 from PIL import Image
+import ipdb
 
 def pngtotiff(input_dir, output_dir):
         
@@ -19,6 +20,7 @@ def pngtotiff(input_dir, output_dir):
     for file in tq(files):
         input_path = os.path.join(input_dir, file)
         output_file = os.path.splitext(file)[0] + ".tiff"
+        ipdb.set_trace()
         output_path = os.path.join(output_dir, output_file)
         
         #converting and saving
