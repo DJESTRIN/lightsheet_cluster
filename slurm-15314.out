@@ -1,47 +1,0 @@
-Base name = 20230406_15_18_13_Cage4278725_Animal01_STRAINFOSTRAPXAI9TDTOMATO_Female_COHORT4_BEHAVIORTMTWATERCONTROL
-Looking for images in /athena/listonlab/scratch/dje4001/lightsheet_scratch/WATERCONTROL/lightsheet/raw/20230406_15_18_13_Cage4278725_Animal01_STRAINFOSTRAPXAI9TDTOMATO_Female_COHORT4_BEHAVIORTMTWATERCONTROL...
-Found 160048 compatible images
-Setting up 112 workers...
-Pystripe batch processing progress:
-  0%|          | 0/160048 [00:00<?, ?it/s]  0%|          | 1/160048 [03:03<8145:54:43, 183.23s/it]  0%|          | 2/160048 [03:12<3607:19:39, 81.14s/it]   0%|          | 4/160048 [03:14<1374:06:37, 30.91s/it]  0%|          | 67/160048 [03:15<47:06:18,  1.06s/it]   0%|          | 102/160048 [03:15<26:53:53,  1.65it/s]  0%|          | 102/160048 [03:29<26:53:53,  1.65it/s]  0%|          | 113/160048 [05:43<119:47:50,  2.70s/it]  0%|          | 116/160048 [05:44<114:10:42,  2.57s/it]  0%|          | 127/160048 [05:52<94:09:03,  2.12s/it]   0%|          | 135/160048 [05:53<76:29:12,  1.72s/it]  0%|          | 146/160048 [05:56<59:05:55,  1.33s/it]  0%|          | 150/160048 [06:04<62:08:00,  1.40s/it]  0%|          | 153/160048 [06:07<59:54:55,  1.35s/it]  0%|          | 158/160048 [06:08<48:01:28,  1.08s/it]  0%|          | 167/160048 [06:08<31:46:33,  1.40it/s]  0%|          | 176/160048 [06:11<26:11:13,  1.70it/s]  0%|          | 218/160048 [06:12<8:22:11,  5.30it/s]   0%|          | 218/160048 [06:29<8:22:11,  5.30it/s]
-multiprocessing.pool.RemoteTraceback: 
-"""
-Traceback (most recent call last):
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/multiprocessing/pool.py", line 125, in worker
-    result = (True, func(*args, **kwds))
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 652, in _read_filter_save
-    read_filter_save(**input_dict)
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 607, in read_filter_save
-    fimg = filter_streaks(img, sigma, level=level, wavelet=wavelet, crossover=crossover, threshold=threshold, flat=flat, dark=dark)
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 471, in filter_streaks
-    foreground_filtered = filter_subband(foreground, sigma[0], level, wavelet)
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 388, in filter_subband
-    img_log = np.log(1 + img)
-numpy.core._exceptions._ArrayMemoryError: Unable to allocate 24.4 MiB for an array with shape (1600, 2000) and data type float64
-"""
-
-The above exception was the direct cause of the following exception:
-
-Traceback (most recent call last):
-  File "/home/fs01/dje4001/anaconda3/bin/pystripe", line 8, in <module>
-    sys.exit(main())
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 972, in main
-    batch_filter(input_path,
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 824, in batch_filter
-    list(tqdm.tqdm(pool.imap(_read_filter_save, args, chunksize=chunks), total=len(args), ascii=True))
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/tqdm/std.py", line 1195, in __iter__
-    for obj in iterable:
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/multiprocessing/pool.py", line 868, in next
-    raise value
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/multiprocessing/pool.py", line 125, in worker
-    result = (True, func(*args, **kwds))
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 652, in _read_filter_save
-    read_filter_save(**input_dict)
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 607, in read_filter_save
-    fimg = filter_streaks(img, sigma, level=level, wavelet=wavelet, crossover=crossover, threshold=threshold, flat=flat, dark=dark)
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 471, in filter_streaks
-    foreground_filtered = filter_subband(foreground, sigma[0], level, wavelet)
-  File "/home/fs01/dje4001/anaconda3/lib/python3.8/site-packages/pystripe/core.py", line 388, in filter_subband
-    img_log = np.log(1 + img)
-numpy.core._exceptions.MemoryError: Unable to allocate 24.4 MiB for an array with shape (1600, 2000) and data type float64
-  0%|          | 225/160048 [08:19<121:40:46,  2.74s/it]  0%|          | 226/160048 [08:31<132:33:32,  2.99s/it]  0%|          | 227/160048 [08:35<134:30:44,  3.03s/it]  0%|          | 230/160048 [08:37<121:10:41,  2.73s/it]  0%|          | 238/160048 [08:44<91:24:22,  2.06s/it]   0%|          | 248/160048 [08:45<57:35:56,  1.30s/it]  0%|          | 255/160048 [08:50<49:57:33,  1.13s/it]  0%|          | 271/160048 [08:50<26:50:12,  1.65it/s]  0%|          | 283/160048 [08:57<26:14:37,  1.69it/s]  0%|          | 292/160048 [08:58<21:01:17,  2.11it/s]  0%|          | 299/160048 [09:00<19:15:14,  2.30it/s]  0%|          | 303/160048 [09:02<19:21:35,  2.29it/s]  0%|          | 304/160048 [09:05<26:17:01,  1.69it/s]  0%|          | 316/160048 [09:07<16:17:51,  2.72it/s]  0%|          | 323/160048 [09:07<12:04:16,  3.68it/s]  0%|          | 325/160048 [09:08<12:49:53,  3.46it/s]  0%|          | 337/160048 [10:58<197:34:46,  4.45s/it]  0%|          | 339/160048 [10:59<179:50:07,  4.05s/it]  0%|          | 342/160048 [11:07<169:05:49,  3.81s/it]  0%|          | 343/160048 [11:18<194:03:20,  4.37s/it]

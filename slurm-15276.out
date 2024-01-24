@@ -1,6 +1,0 @@
-bash: /home/dje4001/lightsheet_cluster/estrin_sendback_spinup.sh: No such file or directory
-/athena/listonlab/scratch/dje4001/lightsheet_scratch/WATERCONTROL/lightsheet/stitched/*/*/
-/athena/listonlab/scratch/dje4001/lightsheet_scratch/WATERCONTROL/lightsheet/downsampled/*/*/
-sbatch: error: invalid partition specified: sackler-cpu
-sbatch: error: Batch job submission failed: Invalid partition name specified
-Submitted batch job 15279

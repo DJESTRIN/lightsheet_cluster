@@ -1,2 +1,0 @@
-sbatch: error: invalid partition specified: sackler-gpu
-sbatch: error: Batch job submission failed: Invalid partition name specified
