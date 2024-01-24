@@ -25,6 +25,7 @@ def pngtotiff(input_dir, output_dir):
         
         #converting and saving
         img = Image.open(input_path)
+        os.makedirs(os.path.dirname(output_path), exist_ok=True)
         img.save(output_path, "TIFF")
         
     
