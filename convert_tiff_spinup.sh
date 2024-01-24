@@ -15,7 +15,7 @@ for folder in $scratch_raw*/
 do
 	TMP=$(echo $folder)
 	echo $TMP
-	sbatch --job-name=remove_empty_images --mem=300G --partition=scu-cpu --mail-type=BEGIN,END,FAIL --mail-user=dje4001@med.cornell.edu --wrap="source ~/.bashrc && conda activate regular && python '$code_directory'/replaceempty.py --pathway '$TMP'"
+	sbatch --job-name=remove_empty_images --mem=300G --partition=scu-cpu --mail-type=BEGIN,END,FAIL --mail-user=dje4001@med.cornell.edu --wrap="source ~/.bashrc && conda activate /home/fs01/dje4001/anaconda3/envs/regular && python '$code_directory'/replaceempty.py --pathway '$TMP'"
 done
 
 #Loop through samples
@@ -23,11 +23,10 @@ for folder in $scratch_raw*/
 do
         TMP=$(echo $folder)
         echo $TMP
-        sbatch --job-name=convert_png_to_tiff --mem=300G --partition=scu-cpu --mail-type=BEGIN,END,FAIL --mail-user=dje4001@med.cornell.edu --wrap="source ~/.bashrc && conda activate regular && bash $code_directory/convert_to_tiff.py --input_directory '$TMP' --output_directory '$scratch_converted'"
-break
+        sbatch --job-name=convert_png_to_tiff --mem=300G --partition=scu-cpu --mail-type=BEGIN,END,FAIL --mail-user=dje4001@med.cornell.edu --wrap="source ~/.bashrc && conda activate /home/fs01/dje4001/anaconda3/envs/regular && python $code_directory/convert_to_tiff.py --input_directory '$TMP' --output_directory '$scratch_converted'"
 done
 
-sbatch --mem=50G --partition=scu-cpu --dependency=singleton --job-name=destripe_files --wrap="bash estrin_destripe_spinup.sh '$code_directory' '$scratch_directory' '$store_finish_directory'"
+#sbatch --mem=50G --partition=scu-cpu --dependency=singleton --job-name=destripe_files --wrap="bash estrin_destripe_spinup.sh '$code_directory' '$scratch_directory' '$store_finish_directory'"
 
 
 

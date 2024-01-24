@@ -11,5 +11,5 @@ mkdir -p $output
 
 # Call pystripe
 source ~/.bashrc
-conda activate pystripe2
+conda activate /home/fs01/dje4001/anaconda3/envs/pystripe2
 pystripe -i $input -o $output -s1 256 -s2 65

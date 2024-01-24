@@ -4,7 +4,7 @@ sample_oh=$1 #full directory to stitched data ==> Input should be enitre sample
 scratch_directory=$2
 module load cuda
 source ~/.bashrc
-conda activate cloudreg
+conda activate /home/fs01/dje4001/.conda/envs/cloudreg
 
 # Create cloud reg output on scratch (or double check) 
 tag=lightsheet/cloudreg/
@@ -17,7 +17,7 @@ mkdir -p $sample_oh_output
 echo $sample_oh_output
 
 # Execute singularity container using estrin_precompute.sh script
-singularity exec -B $sample_oh:/data/input -B $sample_oh_output:/data/output /home/dje4001/cloudreg_local.sif bash /home/dje4001/lightsheet_cluster/estrin_precompute.sh
+singularity exec -B $sample_oh:/data/input -B $sample_oh_output:/data/output /home/fs01/dje4001/cloudreg.sif bash /home/dje4001/lightsheet_cluster/estrin_precompute.sh
 
 echo If code worked, you may now cd into  ~/neuroglancer and run neuroglancer to look at brain on the scu-vis1 node. 
 

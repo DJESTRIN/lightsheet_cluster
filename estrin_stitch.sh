@@ -6,8 +6,8 @@ echo Activate correct environment
 source ~/.bashrc
 module load cuda
 export USECUDA_X_NCC=1
-conda activate stitch
-PARASTITCHER=/home/dje4001/TeraStitcher-portable-1.11.10-Linux/pyscripts/Parastitcher.py
+conda activate /home/fs01/dje4001/anaconda3/envs/stitch
+PARASTITCHER=/athena/listonlab/scratch/dje4001/TeraStitcher-portable-1.11.10-Linux/pyscripts/Parastitcher.py
 base_name=$(basename ${SEARCHPATH})
 starting_directory=$PWD
 
@@ -29,7 +29,7 @@ counter=0
 for sub_folder in $input_base*/;
 do
 	# Call terastitcher
-	cd ~/TeraStitcher-portable-1.11.10-Linux/
+	cd /athena/listonlab/scratch/dje4001/TeraStitcher-portable-1.11.10-Linux
 	input="$sub_folder"
 	
 	if [[ $counter -eq 0 ]]

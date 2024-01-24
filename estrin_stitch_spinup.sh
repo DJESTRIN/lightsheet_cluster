@@ -4,9 +4,6 @@ code_directory=$1
 scratch_directory=$2
 store_finish_directory=$3
 
-# Raw data no longer needed. Send back to storage
-bash /home/dje4001/lightsheet_cluster/estrin_sendback_spinup.sh $scratch_directory/lightsheet/raw/ $store_finish_directory raw
-
 # Create folder for terastitcher output
 scratch_stitch=${scratch_directory}"lightsheet/stitched/"
 scratch_destriped=${scratch_directory}"lightsheet/destriped/"
@@ -19,7 +16,7 @@ cd $code_directory
 for i in $scratch_destriped*/
 do
 TMP=$(echo $i)
-sbatch --job-name=stitch_files --mem=300G --partition=sackler-gpu,scu-gpu --gres=gpu:2 --mail-type=BEGIN,END,FAIL --mail-user=dje4001@med.cornell.edu --wrap="bash ./estrin_stitch.sh '$TMP' '$scratch_directory'"
+sbatch --job-name=stitch_files --mem=300G --partition=scu-gpu --gres=gpu:2 --mail-type=BEGIN,END,FAIL --mail-user=dje4001@med.cornell.edu --wrap="bash ./estrin_stitch.sh '$TMP' '$scratch_directory'"
 
 done
 

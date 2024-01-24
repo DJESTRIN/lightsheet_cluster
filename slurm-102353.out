@@ -1,0 +1,7 @@
+/home/fs01/dje4001/lightsheet_cluster/convert_to_tiff.py: line 6: import: command not found
+/home/fs01/dje4001/lightsheet_cluster/convert_to_tiff.py: line 7: import: command not found
+/home/fs01/dje4001/lightsheet_cluster/convert_to_tiff.py: line 8: import: command not found
+/home/fs01/dje4001/lightsheet_cluster/convert_to_tiff.py: line 9: from: command not found
+/home/fs01/dje4001/lightsheet_cluster/convert_to_tiff.py: line 10: from: command not found
+/home/fs01/dje4001/lightsheet_cluster/convert_to_tiff.py: line 12: syntax error near unexpected token `('
+/home/fs01/dje4001/lightsheet_cluster/convert_to_tiff.py: line 12: `def pngtotiff(input_dir, output_dir):'

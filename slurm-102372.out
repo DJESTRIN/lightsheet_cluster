@@ -1,0 +1,10 @@
+  0%|          | 0/142976 [00:00<?, ?it/s]  0%|          | 0/142976 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "/home/fs01/dje4001/lightsheet_cluster/convert_to_tiff.py", line 34, in <module>
+    pngtotiff(args.input_directory, args.output_directory)
+  File "/home/fs01/dje4001/lightsheet_cluster/convert_to_tiff.py", line 26, in pngtotiff
+    img.save(output_path, "TIFF")
+  File "/home/fs01/dje4001/anaconda3/envs/regular/lib/python3.11/site-packages/PIL/Image.py", line 2410, in save
+    fp = builtins.open(filename, "w+b")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/athena/listonlab/scratch/dje4001/lightsheet_scratch/fostrapxai9tdtomato_vanillacontrol/lightsheet/converted/Ex_647_Em_680/487440/487440_535430/026760.tiff'
