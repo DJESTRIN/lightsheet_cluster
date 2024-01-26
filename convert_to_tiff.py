@@ -14,7 +14,8 @@ def pngtotiff(input_dir, output_dir):
     #finding all the .png files
     os.chdir(input_dir)
     files = glob.glob('**/*.png', recursive=True)
-    subjectID=os.path.basename(input_dir)
+    subjectID=os.path.basename(input_dir[:-1])
+    print(input_dir)
     print(output_dir)
     print(subjectID)
     
@@ -23,7 +24,6 @@ def pngtotiff(input_dir, output_dir):
         input_path = os.path.join(input_dir, file)
         output_file = os.path.splitext(file)[0] + ".tiff"
         output_path = os.path.join(output_dir,subjectID, output_file)
-        print(output_path)
         
         #converting and saving
         img = Image.open(input_path)
