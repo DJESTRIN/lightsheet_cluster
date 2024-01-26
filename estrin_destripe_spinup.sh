@@ -5,7 +5,7 @@ scratch_directory=$2
 store_finish_directory=$3
 
 #Update sample list (in the case of any issues)
-scratch_raw=${scratch_directory}"lightsheet/raw/"
+scratch_raw=${scratch_directory}"lightsheet/converted/"
 scratch_destriped=${scratch_directory}"lightsheet/destriped/"
 
 # Create folder for destripe output
