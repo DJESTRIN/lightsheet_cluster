@@ -1,0 +1,4 @@
+Base name = 20240111_17_37_51_CAGE4422955_ANIMAL1311_STRAINAI9TDTOMATO_SEXFEMALE_BEHAVIORVANILLA
+usage: conda [-h] [--no-plugins] [-V] COMMAND ...
+conda: error: argument COMMAND: invalid choice: 'activatepystripe3' (choose from 'clean', 'compare', 'config', 'create', 'info', 'init', 'install', 'list', 'notices', 'package', 'remove', 'uninstall', 'rename', 'run', 'search', 'update', 'upgrade', 'build', 'content-trust', 'convert', 'debug', 'develop', 'doctor', 'index', 'inspect', 'metapackage', 'render', 'skeleton', 'server', 'token', 'verify', 'repo', 'pack', 'env')
+/home/fs01/dje4001/lightsheet_cluster/estrin_destripe.sh: line 15: pystripe: command not found

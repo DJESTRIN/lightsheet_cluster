@@ -1,0 +1,7 @@
+Base name = 20240113_17_25_06_CAGE4423051_ANIMAL1740_STRAINAi9Tdtomato_SEXMALE_BEHAVIORVANILLA
+Looking for images in /athena/listonlab/scratch/dje4001/lightsheet_scratch/fostrapxai9tdtomato_vanillacontrol/lightsheet/converted/20240113_17_25_06_CAGE4423051_ANIMAL1740_STRAINAi9Tdtomato_SEXMALE_BEHAVIORVANILLA...
+Found 124012 compatible images
+Setting up 112 workers...
+Pystripe batch processing progress:
+  0%|          | 0/124012 [00:00<?, ?it/s]  0%|          | 0/124012 [00:03<?, ?it/s]
+slurmstepd: error: *** JOB 103519 ON c0004 CANCELLED AT 2024-01-26T21:33:09 ***

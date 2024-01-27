@@ -1,0 +1,5 @@
+Base name = 20240114_17_19_35_CAGE442956_ANIMAL1397_STRAINAi9Tdtomato_SEXFEMALE_BEHAVIORVANILLA
+
+EnvironmentLocationNotFound: Not a conda environment: /home/fs01/dje4001/anaconda3/envs/pystripe3
+
+/home/fs01/dje4001/lightsheet_cluster/estrin_destripe.sh: line 15: pystripe: command not found
