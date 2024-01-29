@@ -28,13 +28,25 @@ def get_cells(np_path,threshold):
         
     data[data<=threshold]=0
     data[data>threshold]=1
-    print("finding blobs")
     blobs=label(data)
     return data,blobs
 
 def calculate_f1(pred,gt):
-    #Calculate F1 score given list of coordinates
-    try:
+    gt=np.asarray(gt)
+    pred=np.asarray(pred)
+    #Calculate Number of TP,TN,FP,FN
+    if gt.size==0 and pred.size>0:
+        TN=1 #A blank cube meaning true negative
+        FP=len(pred) #Number of wrong counts
+        TP=0
+        FN=0
+    elif gt.size>0 and pred.size==0:
+        FN=len(gt)
+        TN=0
+        TP=0
+        FP=0
+    elif gt.size>0 and pred.size>0:
+        TN=0
         TP=0
         FN=0
         for real in gt:
@@ -49,19 +61,24 @@ def calculate_f1(pred,gt):
                 TP+=1
             else:
                 FN+=1
-      
         FP=len(pred)-TP
+      
+    elif gt.size==0 and pred.size==0:
+        TN=1
+        FP=0
+        TP=0
+        FN=0
+        
+    if (TP+FP)==0 or (TP+FN)==0:
+        if TN==1:
+            F1=TN/(TN+FP)
+        else:
+            ipdb.set_trace()
+    else:
         Precision=TP/(TP+FP)
         Recall=TP/(TP+FN)
         F1=(Precision*Recall*2)/(Recall+Precision)
-    except:
-        if (TP+FP)==0 or (TP+FN)==0:
-            F1=np.nan
-        if TP==0 and FN==0 and FP>0:
-            F1=0
-        if TP==0 and FN==0 and FP==0:
-            F1=8675309 # code to parse out
-    return F1
+    return F1,TP,FP,TN,FN
             
 def blobs_to_coordinates(blobs):
     #From blobs, get coordinates of potential cells in 3D space
@@ -103,14 +120,18 @@ def analyze(gt_file,pred_file):
     gt=gt['Red']
     
     F1s=[]
-    for threshes in tqdm.tqdm(range(70,100),total=len(range(70,100))):
+    print("Looping through thresholds, calculating F1 score")
+    for threshes in tqdm.tqdm(range(50,100),total=len(range(50,100))):
         threshes=threshes/100
         preds,cells=get_cells(pred_file,threshes)
     
         if len(np.unique(cells))>1:
             cell_coordinates=blobs_to_coordinates(cells)
-            F1=calculate_f1(cell_coordinates,gt)
-            F1s.append([threshes,F1])
+            F1,TP,FP,TN,FN=calculate_f1(cell_coordinates,gt)
+            F1s.append([threshes,F1,TP,FP,TN,FN])
+        else:
+            F1,TP,FP,TN,FN=calculate_f1([],gt)
+            F1s.append([threshes,F1,TP,FP,TN,FN])
 
     F1s=np.asarray(F1s)
     return F1s 
@@ -144,7 +165,8 @@ def main(syglass_file):
             #Save F1 results to numpy
             save_f1s(F1s,syglass_file)
                
-#syglass_files=glob.glob("/athena/listonlab/scratch/dje4001/fostrap_tmtexperimental_training_data/*syg*/*.npy")
+# syglass_files=glob.glob("/athena/listonlab/scratch/dje4001/fostrap_tmtexperimental_training_data/*syg*/*.npy")
+# main(syglass_files[37])
 
 parser=argparse.ArgumentParser()
 parser.add_argument("--syglass_file",type=str,required=True)
