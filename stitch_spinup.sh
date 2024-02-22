@@ -20,12 +20,12 @@ sbatch --job-name=stitch_files --mem=200G --partition=scu-gpu --gres=gpu:1 --mai
 done
 
 # Begin processing for neuroglancer/cloudreg. Create precomputed channel
-sbatch --mem=5G --partition=scu-cpu --dependency=singleton --job-name=stitch_files --wrap="bash estrin_cloudreg_spinup.sh '$code_directory' '$scratch_directory' '$store_finish_directory'"
+sbatch --mem=5G --partition=scu-cpu --dependency=singleton --job-name=stitch_files --wrap="bash cloudreg_spinup.sh '$code_directory' '$scratch_directory' '$store_finish_directory'"
 
 # Begin generating cubes for validation analysis
-sbatch --mem=5G --partition=scu-cpu --dependency=singleton --job-name=stitch_files --wrap="bash estrin_traindata_spinup.sh '$code_directory' '$scratch_directory' '$store_finish_directory'"
+sbatch --mem=5G --partition=scu-cpu --dependency=singleton --job-name=stitch_files --wrap="bash traindata_spinup.sh '$code_directory' '$scratch_directory' '$store_finish_directory'"
 
 # Begin segmenting cells
-sbatch --mem=5G --partition=scu-cpu --dependency=singleton --job-name=stitch_files --wrap="bash estrin_segmentation_spinup.sh '$code_directory' '$scratch_directory' '$store_finish_directory'"
+sbatch --mem=5G --partition=scu-cpu --dependency=singleton --job-name=stitch_files --wrap="bash segmentation_spinup.sh '$code_directory' '$scratch_directory' '$store_finish_directory'"
 
 exit
