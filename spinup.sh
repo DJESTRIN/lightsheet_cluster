@@ -18,7 +18,7 @@ for i in $samples
 do
     TMP=$(echo $i)
     echo $TMP
-    sbatch --job-name=copying_files --mem=300G --partition=scu-cpu --mail-type=BEGIN,END,FAIL --mail-user=dje4001@med.cornell.edu --wrap="bash estrin_copy.sh '$TMP' '$scratch_directory'"
+    sbatch --job-name=copying_files --mem=300G --partition=scu-cpu --mail-type=BEGIN,END,FAIL --mail-user=dje4001@med.cornell.edu --wrap="bash copy.sh '$TMP' '$scratch_directory'"
 done
 
 sbatch --mem=50G --partition=scu-cpu --dependency=singleton --job-name=copying_files --wrap="bash convert_tiff_spinup.sh '$code_directory' '$scratch_directory' '$store_finish_directory'"
